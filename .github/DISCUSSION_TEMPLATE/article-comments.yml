@@ -1,4 +1,5 @@
 title: "[文章评论] "
+labels: ["route:feedback"]
 body:
   - type: markdown
     attributes:
