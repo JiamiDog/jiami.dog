@@ -1,4 +1,5 @@
 title: "[纠错与建议] "
+labels: ["route:correction"]
 body:
   - type: markdown
     attributes:
