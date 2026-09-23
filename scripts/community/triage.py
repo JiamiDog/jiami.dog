@@ -84,6 +84,15 @@ CATEGORY_ROUTES = {
     "问答": "question",
     "经验分享": "share",
     "投票": "poll",
+    "article comments": "feedback",
+    "article-comments": "feedback",
+    "corrections and ideas": "correction",
+    "corrections-and-ideas": "correction",
+    "q&a": "question",
+    "q-a": "question",
+    "experience sharing": "share",
+    "experience-sharing": "share",
+    "polls": "poll",
 }
 
 SYNC_KEYWORDS = (
@@ -231,8 +240,8 @@ def classify_discussion_route(discussion: dict[str, Any]) -> str | None:
     category_values: set[str] = set()
     if isinstance(category, dict):
         category_values = {
-            str(category.get("name", "")).strip(),
-            str(category.get("slug", "")).strip(),
+            str(category.get("name", "")).strip().casefold(),
+            str(category.get("slug", "")).strip().casefold(),
         }
         category_values.discard("")
 
