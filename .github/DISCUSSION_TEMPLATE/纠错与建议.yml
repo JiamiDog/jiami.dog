@@ -1,0 +1,48 @@
+title: "[纠错与建议] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        WordPress 是文章正文的权威来源。经确认的内容修改会先发生在 jiami.dog，再由每日同步任务更新到本仓库。
+  - type: dropdown
+    id: suggestion_type
+    attributes:
+      label: 类型
+      options:
+        - 事实或数据纠错
+        - 链接或来源更新
+        - 表达与结构改进
+        - 新文章或选题建议
+        - 社区或镜像功能建议
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: related_url
+    attributes:
+      label: 相关页面
+      description: 涉及现有文章时请提供原文或镜像地址；新选题可留空。
+      placeholder: https://jiami.dog/example/
+  - type: textarea
+    id: current_state
+    attributes:
+      label: 当前内容或问题
+      description: 指出具体段落、数据或现状。事实纠错请尽量提供可靠来源。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议如何改进
+      description: 说明建议方案及其理由。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 发布前确认
+      options:
+        - label: 我理解本讨论不会直接修改镜像文件，正文改动需先在源站完成。
+          required: true
+        - label: 我没有公开密码、Cookie、令牌、个人资料或其他秘密。
+          required: true

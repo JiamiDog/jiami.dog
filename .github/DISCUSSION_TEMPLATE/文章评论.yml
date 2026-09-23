@@ -1,0 +1,28 @@
+title: "[文章评论] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎围绕具体文章交流经验与看法。请尊重不同观点，不要发布广告、隐私数据或无关链接。
+  - type: input
+    id: article_url
+    attributes:
+      label: 文章地址
+      description: 请提供 jiami.dog 原文或本仓库镜像地址。
+      placeholder: https://jiami.dog/example/
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: 你的评论
+      description: 说说哪些内容对你有帮助、你有哪些补充，或者你的实际经验。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 发布前确认
+      options:
+        - label: 我会围绕文章内容友善交流，并且没有公开个人数据或秘密。
+          required: true
