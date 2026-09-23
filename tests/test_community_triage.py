@@ -156,6 +156,12 @@ class PlanningTests(unittest.TestCase):
             ),
             "feedback",
         )
+        self.assertEqual(
+            classify_discussion_route(
+                {"category": {"name": "Article Comments", "slug": "article-comments"}}
+            ),
+            "feedback",
+        )
         self.assertIsNone(
             classify_discussion_route(
                 {"category": {"name": "公告", "slug": "公告"}}
