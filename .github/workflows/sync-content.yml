@@ -42,13 +42,13 @@ jobs:
       - name: Commit generated changes
         shell: bash
         run: |
-          if [[ -z "$(git status --porcelain -- README.md content/INDEX.md content/posts data/articles.json data/sync-state.json)" ]]; then
+          if [[ -z "$(git status --porcelain -- README.md content/INDEX.md content/categories content/tags content/posts data/articles.json data/sync-state.json)" ]]; then
             echo "No published-content changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- README.md content/INDEX.md content/posts data/articles.json data/sync-state.json
+          git add -- README.md content/INDEX.md content/categories content/tags content/posts data/articles.json data/sync-state.json
           git commit -m "chore(content): sync published articles"
           git push
