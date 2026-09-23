@@ -18,6 +18,7 @@ import re
 import sys
 import tempfile
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -37,9 +38,28 @@ PER_PAGE = 100
 EXPECTED_MARKDOWNIFY_VERSION = "1.2.3"
 README_START = "<!-- AUTO:ARTICLES:START -->"
 README_END = "<!-- AUTO:ARTICLES:END -->"
+README_NAV_START = "<!-- AUTO:NAVIGATION:START -->"
+README_NAV_END = "<!-- AUTO:NAVIGATION:END -->"
 MAX_RESPONSE_BYTES = 64 * 1024 * 1024
 MAX_ARTICLE_BYTES = 8 * 1024 * 1024
 MAX_FETCH_ATTEMPTS = 3
+GITHUB_REPOSITORY_URL = "https://github.com/JiamiDog/jiami.dog"
+DISCUSSIONS_URL = f"{GITHUB_REPOSITORY_URL}/discussions"
+ARTICLE_COMMENTS_URL = f"{DISCUSSIONS_URL}/categories/article-comments"
+CATEGORY_ORDER = ("资源攻略", "互联网金融", "赚钱有方", "常旅客")
+CATEGORY_SLUGS = {
+    "资源攻略": "ziyuan-gonglue",
+    "互联网金融": "hulianwang-jinrong",
+    "赚钱有方": "zhuanqian-youfang",
+    "常旅客": "changlvke",
+}
+CATEGORY_DESCRIPTIONS = {
+    "资源攻略": "工具、建站、网络、账号与数字生活实用教程",
+    "互联网金融": "海外账户、银行卡、支付与跨境金融经验",
+    "赚钱有方": "联盟营销、广告变现、电商与线上业务实践",
+    "常旅客": "酒店、会籍、积分、出行与旅行权益",
+}
+HOME_TAG_LIMIT = 18
 
 
 class SyncError(RuntimeError):
@@ -518,13 +538,49 @@ def _escape_markdown_text(value: str) -> str:
     return re.sub(r"([\\`*_[\]{}()#+.!|>~-])", r"\\\1", value)
 
 
+def _term_slug(value: str) -> str:
+    """Return a stable, readable, cross-platform filename stem for a WP term."""
+    normalized = unicodedata.normalize("NFKC", _plain_text(value)).strip().casefold()
+    pieces = [character if character.isalnum() else "-" for character in normalized]
+    slug = re.sub(r"-+", "-", "".join(pieces)).strip("-")
+    digest = hashlib.sha256(normalized.encode("utf-8")).hexdigest()[:10]
+    if not slug:
+        slug = f"topic-{digest}"
+    if len(slug) > 80:
+        slug = f"{slug[:69].rstrip('-')}-{digest}"
+    if slug.upper() in {"CON", "PRN", "AUX", "NUL", *{f"COM{i}" for i in range(1, 10)}, *{f"LPT{i}" for i in range(1, 10)}}:
+        slug = f"topic-{slug}-{digest}"
+    return slug
+
+
+def _term_slug_map(values: Iterable[str], *, preferred: Mapping[str, str] | None = None) -> dict[str, str]:
+    names = sorted({str(value) for value in values if str(value)}, key=lambda item: (item.casefold(), item))
+    preferred = preferred or {}
+    proposed = {name: preferred.get(name, _term_slug(name)) for name in names}
+    collisions: dict[str, list[str]] = {}
+    for name, slug in proposed.items():
+        collisions.setdefault(slug.casefold(), []).append(name)
+    for names_with_same_slug in collisions.values():
+        if len(names_with_same_slug) < 2:
+            continue
+        for name in names_with_same_slug:
+            digest = hashlib.sha256(name.encode("utf-8")).hexdigest()[:8]
+            proposed[name] = f"{proposed[name]}-{digest}"
+    return proposed
+
+
 def _media_key(url: str) -> str:
     name = Path(urllib.parse.unquote(urllib.parse.urlparse(url).path)).name.lower()
     stem, suffix = os.path.splitext(name)
     return re.sub(r"-\d+x\d+$", "", stem) + suffix
 
 
-def render_article(article: Article) -> str:
+def render_article(
+    article: Article,
+    *,
+    category_slugs: Mapping[str, str],
+    tag_slugs: Mapping[str, str],
+) -> str:
     lines = [
         "---",
         f"title: {_yaml_string(article.title)}",
@@ -561,7 +617,27 @@ def render_article(article: Article) -> str:
         if key and key not in article.body.lower():
             alt = _escape_markdown_text(article.featured_image_alt or article.title)
             lines.extend([f"![{alt}]({article.featured_image_url})", ""])
-    return "\n".join(lines) + "\n" + article.body
+    category_links = ", ".join(
+        f"[{_escape_markdown_text(name)}](../../../categories/{category_slugs[name]}.md)"
+        for name in article.categories
+    ) or "未分类"
+    tag_links = ", ".join(
+        f"[{_escape_markdown_text(name)}](../../../tags/{tag_slugs[name]}.md)"
+        for name in article.tags
+    ) or "无"
+    footer = [
+        "",
+        "---",
+        "",
+        "## 继续阅读与讨论",
+        "",
+        f"- 分类：{category_links}",
+        f"- 主题：{tag_links}",
+        f"- [在官网参与本文评论]({article.canonical_url}#jiami-giscus-comments)",
+        f"- [浏览 GitHub 文章评论区]({ARTICLE_COMMENTS_URL})",
+        "- [返回全部文章](../../../INDEX.md)",
+    ]
+    return "\n".join(lines) + "\n" + article.body.rstrip() + "\n" + "\n".join(footer) + "\n"
 
 
 def article_to_row(article: Article) -> dict[str, Any]:
@@ -592,14 +668,45 @@ def _sorted_rows(rows: Iterable[Mapping[str, Any]]) -> list[dict[str, Any]]:
     )
 
 
-def render_content_index(rows: Sequence[Mapping[str, Any]]) -> str:
+def _term_counts(rows: Sequence[Mapping[str, Any]], field: str) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for row in rows:
+        for value in row.get(field, []):
+            name = str(value)
+            counts[name] = counts.get(name, 0) + 1
+    return counts
+
+
+def _ordered_categories(counts: Mapping[str, int]) -> list[str]:
+    known = [name for name in CATEGORY_ORDER if name in counts]
+    remaining = sorted((name for name in counts if name not in CATEGORY_ORDER), key=lambda item: item.casefold())
+    return [*known, *remaining]
+
+
+def _popular_tags(counts: Mapping[str, int], limit: int = HOME_TAG_LIMIT) -> list[str]:
+    return sorted(counts, key=lambda name: (-counts[name], name.casefold(), name))[:limit]
+
+
+def _article_link_from_content(row: Mapping[str, Any]) -> str:
+    return PurePosixPath(str(row["github_path"])).relative_to("content").as_posix()
+
+
+def render_content_index(
+    rows: Sequence[Mapping[str, Any]],
+    *,
+    category_slugs: Mapping[str, str],
+    tag_slugs: Mapping[str, str],
+) -> str:
     pending_count = sum(row.get("sync_status") == "missing_once" for row in rows)
+    category_counts = _term_counts(rows, "categories")
+    tag_counts = _term_counts(rows, "tags")
     lines = [
         "# 加密狗文章目录",
         "",
-        "本目录由同步程序从 jiami.dog 的公开 WordPress posts 自动生成；官网是权威版本。",
+        "[返回仓库首页](../README.md) · [访问 jiami.dog 官网](https://jiami.dog/) · "
+        f"[参与讨论]({DISCUSSIONS_URL})",
         "",
-        f"当前镜像：**{len(rows)}** 篇。",
+        f"这里收录从 jiami.dog 同步的 **{len(rows)}** 篇公开文章；官网版本始终是权威原文。",
         "",
     ]
     if pending_count:
@@ -607,6 +714,20 @@ def render_content_index(rows: Sequence[Mapping[str, Any]]) -> str:
     if not rows:
         lines.append("尚无已同步文章。")
     else:
+        lines.extend(["## 按分类浏览", ""])
+        for category in _ordered_categories(category_counts):
+            lines.append(
+                f"- [{_escape_markdown_text(category)}](categories/{category_slugs[category]}.md)"
+                f"（{category_counts[category]} 篇）"
+            )
+        lines.extend(["", "## 热门主题", ""])
+        lines.append(
+            " · ".join(
+                f"[{_escape_markdown_text(tag)}](tags/{tag_slugs[tag]}.md)（{tag_counts[tag]}）"
+                for tag in _popular_tags(tag_counts, limit=30)
+            )
+        )
+        lines.extend(["", "## 按年份浏览", ""])
         current_year = None
         for row in rows:
             published = str(row["date_local"] or row["date_published"])
@@ -616,13 +737,36 @@ def render_content_index(rows: Sequence[Mapping[str, Any]]) -> str:
                     lines.append("")
                 lines.extend([f"## {year}", ""])
                 current_year = year
-            path = PurePosixPath(str(row["github_path"])).relative_to("content").as_posix()
+            path = _article_link_from_content(row)
             suffix = " · 待二次确认" if row.get("sync_status") == "missing_once" else ""
             lines.append(
                 f"- {published[:10]} [{_escape_markdown_text(str(row['title']))}]({path}) · "
                 f"[官网原文]({row['source_url']}){suffix}"
             )
     return "\n".join(lines).rstrip() + "\n"
+
+
+def render_readme_navigation(
+    rows: Sequence[Mapping[str, Any]],
+    *,
+    category_slugs: Mapping[str, str],
+    tag_slugs: Mapping[str, str],
+) -> str:
+    category_counts = _term_counts(rows, "categories")
+    tag_counts = _term_counts(rows, "tags")
+    lines = [f"当前镜像收录 **{len(rows)}** 篇公开文章。", ""]
+    for category in _ordered_categories(category_counts):
+        description = CATEGORY_DESCRIPTIONS.get(category, "更多公开文章")
+        lines.append(
+            f"- **[{_escape_markdown_text(category)}](content/categories/{category_slugs[category]}.md)**"
+            f"（{category_counts[category]} 篇）— {description}"
+        )
+    if tag_counts:
+        lines.extend(["", "**热门主题：** " + " · ".join(
+            f"[{_escape_markdown_text(tag)}](content/tags/{tag_slugs[tag]}.md)"
+            for tag in _popular_tags(tag_counts)
+        )])
+    return "\n".join(lines).rstrip()
 
 
 def render_readme_section(rows: Sequence[Mapping[str, Any]]) -> str:
@@ -634,21 +778,73 @@ def render_readme_section(rows: Sequence[Mapping[str, Any]]) -> str:
         lines.append("当前公开 posts 接口没有返回文章。")
     else:
         for row in rows[:10]:
+            categories = " / ".join(_escape_markdown_text(str(name)) for name in row.get("categories", []))
+            category_suffix = f" · {categories}" if categories else ""
             lines.append(
                 f"- {str(row.get('date_local') or row['date_published'])[:10]} "
-                f"[{_escape_markdown_text(str(row['title']))}]({row['github_path']}) · "
-                f"[官网原文]({row['source_url']})"
+                f"[{_escape_markdown_text(str(row['title']))}]({row['github_path']})"
+                f"{category_suffix} · [官网原文]({row['source_url']})"
             )
-        lines.extend(["", "[查看全部文章 →](content/INDEX.md)"])
+        lines.extend(["", "[查看全部文章 →](content/INDEX.md) · "
+                      f"[进入评论区 →]({ARTICLE_COMMENTS_URL})"])
     return "\n".join(lines).rstrip()
 
 
+def replace_generated_section(readme: str, start: str, end: str, generated: str) -> str:
+    if readme.count(start) != 1 or readme.count(end) != 1:
+        raise SyncError(f"README.md must contain exactly one marker pair: {start} / {end}")
+    before, remainder = readme.split(start, 1)
+    _, after = remainder.split(end, 1)
+    return f"{before}{start}\n\n{generated}\n\n{end}{after}"
+
+
 def replace_readme_section(readme: str, generated: str) -> str:
-    if readme.count(README_START) != 1 or readme.count(README_END) != 1:
-        raise SyncError("README.md must contain exactly one generated-section marker pair.")
-    before, remainder = readme.split(README_START, 1)
-    _, after = remainder.split(README_END, 1)
-    return f"{before}{README_START}\n\n{generated}\n\n{README_END}{after}"
+    return replace_generated_section(readme, README_START, README_END, generated)
+
+
+def render_term_page(
+    name: str,
+    rows: Sequence[Mapping[str, Any]],
+    *,
+    kind: str,
+) -> str:
+    heading = "分类" if kind == "category" else "主题"
+    description = CATEGORY_DESCRIPTIONS.get(name, "") if kind == "category" else ""
+    lines = [
+        f"# {heading}：{name}",
+        "",
+        "[返回仓库首页](../../README.md) · [全部文章](../INDEX.md) · "
+        f"[参与讨论]({DISCUSSIONS_URL})",
+        "",
+    ]
+    if description:
+        lines.extend([description, ""])
+    lines.extend([f"共 **{len(rows)}** 篇文章。", ""])
+    for row in rows:
+        date_text = str(row.get("date_local") or row["date_published"])[:10]
+        article_path = f"../{_article_link_from_content(row)}"
+        lines.append(
+            f"- {date_text} [{_escape_markdown_text(str(row['title']))}]({article_path}) · "
+            f"[官网原文]({row['source_url']})"
+        )
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def render_term_pages(
+    rows: Sequence[Mapping[str, Any]],
+    *,
+    field: str,
+    kind: str,
+    slugs: Mapping[str, str],
+) -> dict[PurePosixPath, str]:
+    directory = "categories" if kind == "category" else "tags"
+    result: dict[PurePosixPath, str] = {}
+    for name in sorted(slugs, key=lambda item: (item.casefold(), item)):
+        matching = [row for row in rows if name in [str(value) for value in row.get(field, [])]]
+        result[PurePosixPath("content") / directory / f"{slugs[name]}.md"] = render_term_page(
+            name, matching, kind=kind
+        )
+    return result
 
 
 def build_index(rows: Sequence[Mapping[str, Any]], *, source_total: int) -> str:
@@ -730,6 +926,8 @@ def _assert_safe_managed_paths(repository_root: Path) -> None:
         "README.md",
         "content",
         "content/posts",
+        "content/categories",
+        "content/tags",
         "data",
         "data/articles.json",
         "data/sync-state.json",
@@ -772,6 +970,22 @@ def _remove_empty_post_directories(posts_root: Path) -> None:
             pass
 
 
+def _remove_stale_markdown(root: Path, keep_paths: set[Path]) -> int:
+    if not root.exists():
+        return 0
+    resolved_root = root.resolve()
+    deleted = 0
+    for path in root.rglob("*.md"):
+        resolved_path = path.resolve()
+        if not resolved_path.is_relative_to(resolved_root):
+            raise SyncError(f"Generated path escapes managed root: {path}")
+        if resolved_path not in keep_paths:
+            path.unlink()
+            deleted += 1
+    _remove_empty_post_directories(root)
+    return deleted
+
+
 def sync_posts(
     posts: Sequence[Mapping[str, Any]],
     snapshot: SourceSnapshot,
@@ -810,25 +1024,52 @@ def sync_posts(
         retained_rows.append(retained)
 
     rows = _sorted_rows([*current_rows, *retained_rows])
+    category_slugs = _term_slug_map(
+        (name for row in rows for name in row.get("categories", [])),
+        preferred=CATEGORY_SLUGS,
+    )
+    tag_slugs = _term_slug_map(name for row in rows for name in row.get("tags", []))
     desired: dict[Path, str] = {
-        repository_root / article.relative_path: render_article(article) for article in articles
+        repository_root / article.relative_path: render_article(
+            article,
+            category_slugs=category_slugs,
+            tag_slugs=tag_slugs,
+        )
+        for article in articles
     }
-    desired[repository_root / "content" / "INDEX.md"] = render_content_index(rows)
+    category_pages = render_term_pages(
+        rows,
+        field="categories",
+        kind="category",
+        slugs=category_slugs,
+    )
+    tag_pages = render_term_pages(rows, field="tags", kind="tag", slugs=tag_slugs)
+    desired.update({repository_root / path: content for path, content in category_pages.items()})
+    desired.update({repository_root / path: content for path, content in tag_pages.items()})
+    desired[repository_root / "content" / "INDEX.md"] = render_content_index(
+        rows,
+        category_slugs=category_slugs,
+        tag_slugs=tag_slugs,
+    )
     desired[index_path] = build_index(rows, source_total=snapshot.total)
     desired[state_path] = build_state(snapshot)
-    desired[readme_path] = replace_readme_section(
-        readme_path.read_text(encoding="utf-8"), render_readme_section(rows)
+    readme = replace_generated_section(
+        readme_path.read_text(encoding="utf-8"),
+        README_NAV_START,
+        README_NAV_END,
+        render_readme_navigation(rows, category_slugs=category_slugs, tag_slugs=tag_slugs),
     )
+    desired[readme_path] = replace_readme_section(readme, render_readme_section(rows))
     changed = sum(int(_write_if_changed(path, content)) for path, content in desired.items())
     keep_paths = {(repository_root / PurePosixPath(str(row["github_path"]))).resolve() for row in rows}
     posts_root = repository_root / "content" / "posts"
-    existing = list(posts_root.rglob("*.md"))
-    deleted = 0
-    for path in existing:
-        if path.resolve() not in keep_paths:
-            path.unlink()
-            deleted += 1
-    _remove_empty_post_directories(posts_root)
+    deleted = _remove_stale_markdown(posts_root, keep_paths)
+    category_keep = {
+        (repository_root / path).resolve() for path in category_pages
+    }
+    tag_keep = {(repository_root / path).resolve() for path in tag_pages}
+    deleted += _remove_stale_markdown(repository_root / "content" / "categories", category_keep)
+    deleted += _remove_stale_markdown(repository_root / "content" / "tags", tag_keep)
     return {
         "published": snapshot.total,
         "mirrored": len(rows),
