@@ -1,0 +1,66 @@
+name: 镜像元数据故障
+description: 报告标题、日期、分类、作者、原文链接或索引信息不一致。
+title: "[元数据] "
+labels:
+  - metadata
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        本表单只处理源站正确而镜像元数据错误的情况。若要修改文章本身，请在 Discussions 提出。
+  - type: input
+    id: mirror_url
+    attributes:
+      label: GitHub 镜像地址
+      placeholder: https://github.com/JiamiDog/jiami.dog/blob/main/content/posts/...
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: 源站文章地址
+      placeholder: https://jiami.dog/example/
+    validations:
+      required: true
+  - type: dropdown
+    id: metadata_field
+    attributes:
+      label: 出错字段
+      multiple: true
+      options:
+        - 标题
+        - 发布或更新时间
+        - 分类或标签
+        - 作者
+        - 原文或 canonical 地址
+        - 特色图片
+        - 上一篇或下一篇导航
+        - content/INDEX.md
+        - data/articles.json
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: 镜像中的实际值
+      description: 请粘贴当前错误值或描述错误位置。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 源站中的正确值
+      description: 请提供源站对应值，必要时说明核对时间。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我已对比源站与镜像，并搜索过现有 Issues。
+          required: true
+        - label: 我没有在表单或截图中泄露令牌、Cookie、个人数据或其他秘密。
+          required: true

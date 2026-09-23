@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 文章评论、问答与内容建议
+    url: https://github.com/JiamiDog/jiami.dog/discussions
+    about: 一般讨论、使用问题、文章纠错和建议请发到 Discussions。
+  - name: 私密报告安全问题
+    url: https://github.com/JiamiDog/jiami.dog/security/policy
+    about: 请先阅读安全政策，不要在公开 Issue 中披露漏洞、凭据或个人数据。
+  - name: JiamiDog 官方网站
+    url: https://jiami.dog/
+    about: 阅读权威版本的文章，或查找网站提供的官方联系渠道。

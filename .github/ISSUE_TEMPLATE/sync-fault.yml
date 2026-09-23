@@ -1,0 +1,61 @@
+name: 文章同步故障
+description: 报告已发布文章漏同步、长期未更新、重复或异常移除。
+title: "[同步] "
+labels:
+  - sync
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢报告。请先确认源站文章可以公开访问，并搜索是否已有相同 Issue。
+        文章内容本身的纠错或建议应发到 Discussions，不要在此表单提交。
+  - type: dropdown
+    id: fault_type
+    attributes:
+      label: 故障类型
+      options:
+        - 已发布文章没有出现在镜像中
+        - 源站已更新但镜像长期没有更新
+        - 同一文章出现重复镜像
+        - 镜像文章被异常移除
+        - 其他同步故障
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: 源站文章地址
+      description: 必须是 jiami.dog 上可公开访问的文章地址。
+      placeholder: https://jiami.dog/example/
+    validations:
+      required: true
+  - type: input
+    id: mirror_url
+    attributes:
+      label: GitHub 镜像地址
+      description: 如果存在对应镜像，请提供其链接；完全漏同步时可留空。
+      placeholder: https://github.com/JiamiDog/jiami.dog/blob/main/content/posts/...
+  - type: textarea
+    id: observed
+    attributes:
+      label: 实际结果
+      description: 说明你看到了什么，以及最后一次确认问题的时间。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+      description: 说明镜像应当呈现的结果。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我已确认源站文章可公开访问，并搜索过现有 Issues。
+          required: true
+        - label: 我没有在表单、截图或链接中泄露令牌、Cookie、个人数据或其他秘密。
+          required: true
