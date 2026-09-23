@@ -19,7 +19,7 @@
 [jiami.dog](https://jiami.dog/) 上已发布的 WordPress 文章是正文的唯一权威来源。本仓库是公开、只读的 GitHub 镜像：
 
 - 文章观点或事实需要修订时，应先在 Discussions 说明；确认后由维护者修改 WordPress 正文，再由同步任务更新仓库。
-- 不要直接修改 `content/posts/`、`content/INDEX.md`、`data/articles.json`、`data/sync-state.json` 或 README 中的自动生成区块。
+- 不要直接修改 `content/posts/`、`content/categories/`、`content/tags/`、`content/INDEX.md`、`data/articles.json`、`data/sync-state.json` 或 README 中的自动生成区块。
 - 如果源站正确而镜像错误，请提交 Issue，并同时提供源站地址和镜像地址。
 - 本仓库不接受未发布草稿、用户数据、流量日志、联盟账户资料或内部运营材料。
 
