@@ -100,3 +100,13 @@ bpu MZBuy.woa
 点击 TikTok 的“获取”按钮后，或许你会因为不熟练导致下载失败，多尝试几次就可以了，关闭 iTunes 和 Fiddler 程序，从第三步重新开始，相信自己。
 
 然后还有一点就是，网络节点代理，不仅仅只是TCP协议代理，如果你是路由器使用订阅地址，那么TCP选择节点后UDP选择与TCP一直即可，桌面客户端的开启全局模式。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[TIKTOK](../../../tags/tiktok.md)
+- [在官网参与本文评论](https://jiami.dog/4174.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

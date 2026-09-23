@@ -65,3 +65,13 @@ tags:
 之后想要开启也是可以随时开启的，文章的末尾给大家一个小福利是他家的50%优惠码仅可用于抵扣.co.uk或者.com域名服务
 
 [**FIFTYOFF**](https://www.awin1.com/cshow.php?s=2040282&v=897&q=322039&r=204787)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[uk](../../../tags/uk.md), [域名](../../../tags/域名.md), [教程](../../../tags/教程.md)
+- [在官网参与本文评论](https://jiami.dog/3617.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

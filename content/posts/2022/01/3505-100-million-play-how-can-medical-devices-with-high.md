@@ -221,3 +221,13 @@ TikTok是短视频平台，底层核心就是靠短视频获得量级曝光从�
 大家对矩阵的认识就是上量，认识是没错的。
 
 但更为根本的是要掌握好TikTok的运营基础，一个千万播放的视频可以抹掉你一年的努力。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[TIKTOK](../../../tags/tiktok.md)
+- [在官网参与本文评论](https://jiami.dog/3505.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

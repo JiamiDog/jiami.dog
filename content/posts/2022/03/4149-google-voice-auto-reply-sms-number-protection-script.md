@@ -116,3 +116,13 @@ console.error('for loop error: ' + e);
 如果出现 ReferenceError: e is not defined at autoReplier(代码:38:42) 错误，请重新复制以下代码进行保存，脚本安全可靠，不会出现锁号冻结的情况，放心使用。
 
 如果你会经常更换IP地址或发送垃圾短信，使用脚本会出现禁封，申诉话术：因个人编写自动回复信息脚本，并未做出违法谷歌协议，希望谷歌审核团队审核，解封几率99%。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Google Voice](../../../tags/google-voice.md), [谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/4149.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

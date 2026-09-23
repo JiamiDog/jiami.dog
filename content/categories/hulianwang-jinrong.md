@@ -1,0 +1,43 @@
+# 分类：互联网金融
+
+[返回仓库首页](../../README.md) · [全部文章](../INDEX.md) · [参与讨论](https://github.com/JiamiDog/jiami.dog/discussions)
+
+海外账户、银行卡、支付与跨境金融经验
+
+共 **35** 篇文章。
+
+- 2023-03-09 [HSBC US 开户流程 低门槛拥有一个US银行账户](../posts/2023/03/4710-hsbc-us-account-opening-process-has-a-low-threshold-to-have.md) · [官网原文](https://jiami.dog/4710.html)
+- 2023-03-07 [中国内地去香港办理银行卡，香港永隆银行开户](../posts/2023/03/4671-the-mainland-of-china-went-to-hong-kong-to-apply-for-bank.md) · [官网原文](https://jiami.dog/4671.html)
+- 2023-02-22 [去香港办香港银行卡](../posts/2023/02/4573-go-to-hong-kong-to-apply-for-a-hong-kong-bank-card.md) · [官网原文](https://jiami.dog/4573.html)
+- 2023-02-01 [个人海外银行开户最简单的方法](../posts/2023/02/4512-the-easiest-way-for-individuals-to-open-accounts-in.md) · [官网原文](https://jiami.dog/4512.html)
+- 2023-01-04 [无 SSN 新手美卡入门指南](../posts/2023/01/4478-beginners-guide-to-american-cards-without-ssn.md) · [官网原文](https://jiami.dog/4478.html)
+- 2022-06-07 [贝卡帮卡头222929和557271轻松激活Wise](../posts/2022/06/4343-bekabang-card-heads-222929-and-557271-can-easily-activate.md) · [官网原文](https://jiami.dog/4343.html)
+- 2022-04-07 [GEP开卡平台：222929虚拟卡和557271虚拟卡 据说可以激活Wise](../posts/2022/04/4237-gep-card-opening-platform-222929-virtual-card-and-557271.md) · [官网原文](https://jiami.dog/4237.html)
+- 2022-03-20 [通过FIVERR平台申请美国个人纳税人识别号ITIN](../posts/2022/03/4188-apply-for-u-s-individual-taxpayer-identification-number.md) · [官网原文](https://jiami.dog/4188.html)
+- 2022-01-22 [WeChat Pay HK开通教程](../posts/2022/01/3625-wechat-pay-hk-launch-tutorial.md) · [官网原文](https://jiami.dog/3625.html)
+- 2022-01-22 [Wise商业版开通及订购实体卡教程](../posts/2022/01/3595-wise-commercial-edition-opening-and-ordering-physical-card.md) · [官网原文](https://jiami.dog/3595.html)
+- 2022-01-16 [Capital One US开户教程](../posts/2022/01/3495-capital-one-us-account-opening-tutorial.md) · [官网原文](https://jiami.dog/3495.html)
+- 2022-01-14 [一款英国虚拟卡账户 VitraCash开户教程](../posts/2022/01/3476-a-british-virtual-card-account-vitracash-account-opening.md) · [官网原文](https://jiami.dog/3476.html)
+- 2021-10-13 [跨国电子商务常见收款打款方式汇总](../posts/2021/10/2769-summary-of-common-collection-and-payment-methods-in.md) · [官网原文](https://jiami.dog/2769.html)
+- 2021-10-08 [注册香港PayPal并绑定大陆手机号方法](../posts/2021/10/2748-method-of-registering-paypal-in-hong-kong-and-binding.md) · [官网原文](https://jiami.dog/2748.html)
+- 2021-10-04 [Wise验证账户，获取美元银行账号，并绑定到Paypal；提现美元到国内银联卡、支付宝【图文教程】](../posts/2021/10/2687-wise-verifies-the-account-obtains-the-usd-bank-account.md) · [官网原文](https://jiami.dog/2687.html)
+- 2021-10-01 [Bank Of America 美国银行开户攻略](../posts/2021/10/2672-bank-of-america-account-opening-strategy.md) · [官网原文](https://jiami.dog/2672.html)
+- 2021-08-26 [可远程开户的美国银行汇总：开户推荐，开户条件，综合对比以及建议](../posts/2021/08/2564-summary-of-bank-of-america-with-remote-account-opening.md) · [官网原文](https://jiami.dog/2564.html)
+- 2021-08-20 [香港汇丰银行开户攻略](../posts/2021/08/2387-hsbc-account-opening-strategy.md) · [官网原文](https://jiami.dog/2387.html)
+- 2021-08-11 [美国Stripe支付网关支持美国银行清单列表汇总](../posts/2021/08/2205-u-s-stripe-payment-gateway-supports-bank-of-america-list.md) · [官网原文](https://jiami.dog/2205.html)
+- 2021-08-11 [美国 Stripe\(香港 Stripe\)成功申请并打通支付环节记录](../posts/2021/08/2191-american-stripe-hong-kong-stripe-successfully-applied-for.md) · [官网原文](https://jiami.dog/2191.html)
+- 2021-08-11 [九种不同入金解决方案,国内向 Velo 华美银行\(East West Bank\)转账汇款，实操低成本手续费入金](../posts/2021/08/2181-nine-different-deposit-solutions-domestic-transfer-and.md) · [官网原文](https://jiami.dog/2181.html)
+- 2021-08-11 [美国Sable\(黑豹/貂蝉\)银行账户及信用卡开户申请攻略](../posts/2021/08/2170-introduction-to-american-sable-bank-account-and-credit-card.md) · [官网原文](https://jiami.dog/2170.html)
+- 2021-08-11 [Monzo \| 不用去银行就能办的英国“网红”银行卡](../posts/2021/08/2159-monzo-british-online-red-bank-card-that-can-be-obtained.md) · [官网原文](https://jiami.dog/2159.html)
+- 2021-08-11 [如何从境外快速收款：Payoneer （含新用户优惠）](../posts/2021/08/2146-how-to-collect-money-quickly-from-overseas-payoneer.md) · [官网原文](https://jiami.dog/2146.html)
+- 2021-08-11 [香港Paypal绑定香港花旗银行提款方案](../posts/2021/08/2133-hong-kong-paypal-is-bound-to-the-withdrawal-scheme-of.md) · [官网原文](https://jiami.dog/2133.html)
+- 2021-08-11 [香港Stripe支持银行列表清单汇总](../posts/2021/08/2126-summary-of-list-of-banks-supported-by-hong-kong-stripe.md) · [官网原文](https://jiami.dog/2126.html)
+- 2021-08-11 [美区Paypal成功申请以及防风控\\解封控攻略](../posts/2021/08/2098-us-paypal-successfully-applied-and-risk-control.md) · [官网原文](https://jiami.dog/2098.html)
+- 2021-08-11 [美区Paypal绑定Payoneer\(派安盈\)美国社区联邦储蓄账户提现](../posts/2021/08/2084-american-paypal-is-bound-to-payneers-withdrawal-from-the.md) · [官网原文](https://jiami.dog/2084.html)
+- 2021-08-11 [美区Paypal绑定华美Velo银行\(East West Bank\)账户提现](../posts/2021/08/2067-us-paypal-is-bound-to-withdraw-cash-from-the-account-of.md) · [官网原文](https://jiami.dog/2067.html)
+- 2021-08-11 [美区Paypal绑定WorldFirst\(万里汇\)账户提现至国内银行账户方案,含删卡解决办法](../posts/2021/08/2053-us-paypal-binds-worldfirst-account-to-withdraw-cash-to.md) · [官网原文](https://jiami.dog/2053.html)
+- 2021-08-10 [德国N26数字银行远程开户，20分钟顺利拿到账户攻略](../posts/2021/08/2018-de-guo-n26-shu-zi-yin-hang.md) · [官网原文](https://jiami.dog/2018.html)
+- 2021-06-21 [永久获得温德姆酒店集团钻石卡方法](../posts/2021/06/1992-permanent-access-to-wyndham-hotel-group-diamond-card-method.md) · [官网原文](https://jiami.dog/1992.html)
+- 2021-05-07 [租用美国私人地址的详细步骤，方便海淘以及各种信件收取](../posts/2021/05/88-detailed-steps-for-renting-a-private-address-in-the-united.md) · [官网原文](https://jiami.dog/88.html)
+- 2021-04-29 [PayPal风控那些事](../posts/2021/04/36-paypal-risk-control.md) · [官网原文](https://jiami.dog/36.html)
+- 2021-04-27 [在中国可以直接开户的美国银行汇总](../posts/2021/04/21-summary-of-american-banks-that-can-open-accounts-directly.md) · [官网原文](https://jiami.dog/21.html)

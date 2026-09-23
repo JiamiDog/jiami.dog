@@ -73,3 +73,13 @@ Just My Socks 5.2% 优惠码：[**JMS9272283**](https://jiami.dog/jms/)  (点�
 ![Just-My-Socks-coupon](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/09/1631612415-Just-My-Socks-coupon.png?resize=900%2C398&ssl=1)
 
 最后，虽然说只限三台设备登陆，但是可以在路由器上设置，变成无限设备，不过100G每个月的流量是固定的。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[IPLC](../../../tags/iplc.md), [搬瓦工](../../../tags/搬瓦工.md)
+- [在官网参与本文评论](https://jiami.dog/2568.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

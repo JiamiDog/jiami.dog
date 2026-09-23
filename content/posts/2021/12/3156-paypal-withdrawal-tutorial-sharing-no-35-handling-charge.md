@@ -48,3 +48,13 @@ tags:
 
 1.无需网店，只需要绑定PayPal，如果提现到支付宝需要上传PayPal交易记录，提现到银行卡不需要
 2.仅香港收款账户PayPal无35手续费
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[PayPal](../../../tags/paypal.md), [万里汇](../../../tags/万里汇.md)
+- [在官网参与本文评论](https://jiami.dog/3156.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

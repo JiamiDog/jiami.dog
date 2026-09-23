@@ -116,3 +116,13 @@ A:去美国旅游建议还是办 ATT 或者 T-Mobile 的临时电话卡吧，100
 **Q:美国留的电话是临时的，回国后有办法修改么？**
 
 A:APP里面可以直接修改，回国后可以自行申请TextNow或者Google Voice（长期有效的美国号码)，我现在就弄了一个GoogleVoice的美国号码，可以正常接收BOA的短信验证码(并且可以自动转发到 Hangout 环聊或者 Gmail 邮箱。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[信用卡](../../../tags/信用卡.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/2672.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

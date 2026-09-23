@@ -271,3 +271,13 @@ tags:
 | Wells Fargo | Marriott | WEL | [查询协议价格](https://www.marriott.com/search/default.mi?clusterCode=corp&corporateCode=WEL) |
 | Harvard | Choice Hotels | 00076514 | [查询协议价格](https://www.choicehotels.com/) |
 | ABN | Choice Hotels | 00845160 | [查询协议价格](https://www.choicehotels.com/) |
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[协议价](../../../tags/协议价.md)
+- [在官网参与本文评论](https://jiami.dog/23.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

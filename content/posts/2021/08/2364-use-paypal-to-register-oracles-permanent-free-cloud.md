@@ -118,3 +118,13 @@ PS：主区域决定服务器的数据中心，后期不可更改。和最开始
 - objectstorage.sa-saopaulo-1.oraclecloud.com
 - 智利中部 圣地亚哥：
 - objectstorage.sa-santiago-1.oraclecloud.com
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[信用卡](../../../tags/信用卡.md)
+- [在官网参与本文评论](https://jiami.dog/2364.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

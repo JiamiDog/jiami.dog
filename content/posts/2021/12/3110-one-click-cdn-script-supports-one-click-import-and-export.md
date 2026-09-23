@@ -85,3 +85,13 @@ wget https://raw.githubusercontent.com/Har-Kuun/OneClickCDN/master/translation/t
 2021年12月12日新增：目前已支持配置与SSL证书导入导出，可以快速在多个CDN节点中实现同步配置网站。
 
 **已开源：<https://github.com/Har-Kuun/OneClickCDN/>**
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[cdn](../../../tags/cdn.md), [ssl](../../../tags/ssl.md)
+- [在官网参与本文评论](https://jiami.dog/3110.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

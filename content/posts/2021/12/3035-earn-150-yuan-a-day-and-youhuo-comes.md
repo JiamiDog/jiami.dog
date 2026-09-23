@@ -98,3 +98,13 @@ tags: []
 希望大家每次学到的不是项目本身，而是能给你现在带来什么，或者你能通过我的分享获得什么。
 
 而不是死记硬背的做人。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：无
+- [在官网参与本文评论](https://jiami.dog/3035.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -38,3 +38,13 @@ tags:
 ## 视频讲解
 
 [<https://jiami.dog/wp-content/uploads/2022/02/1645935175-1645885001-268567988-1-192.mp4>](https://jiami.dog/wp-content/uploads/2022/02/1645935175-1645885001-268567988-1-192.mp4?_=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[数码](../../../tags/数码.md), [软件](../../../tags/软件.md)
+- [在官网参与本文评论](https://jiami.dog/3851.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

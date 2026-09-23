@@ -114,3 +114,13 @@ tags: []
 今天分享的这些，在国外早就是常识了，大家可以看到国外YouTube或者博客都特别喜欢无私分享。而且教程做得特别详细，把知识点掰碎了给你解说，人人都是热心的洋雷锋，看到视频下面挂的链接，就知道这也是很好的生意，你要能给予，才能收获。给得越多，收获越多。
 
 国外靠Affiliate推广收入赚钱的人群成百上千万，有靠这个养家糊口，有靠这个周游世界的，在东南亚的欧美年轻人尤其多。每年泰国清迈的SEO大会就是一个缩影，他们靠着网络的被动收入，在世界各地游玩。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：无
+- [在官网参与本文评论](https://jiami.dog/3046.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

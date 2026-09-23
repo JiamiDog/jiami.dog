@@ -193,3 +193,13 @@ GHA白金卡不差，有房型升级、延迟退房、当地体验，遇到厚�
 要说这些酒店第三方有没有待遇，本身都不是大热门，所以适度通过邮件/前台谈谈心，遇到厚道的酒店都会给，但也不必强求。
 
 最后的最后，如果酒店住的不多，没必要盯紧某个酒店集团，玩常旅客嘛，就应该试试雨露均沾~
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[visa信用卡](../../../tags/visa信用卡.md), [支付宝](../../../tags/支付宝.md), [白金卡](../../../tags/白金卡.md), [酒店服务](../../../tags/酒店服务.md), [钻石卡](../../../tags/钻石卡.md)
+- [在官网参与本文评论](https://jiami.dog/104.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

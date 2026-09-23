@@ -129,3 +129,13 @@ HSBC US Premier 介绍页
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/03/1678353917-20230309172435.png?resize=768%2C592&ssl=1)
 
 HSBC US DEBIT & CREDIT
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[境外开户](../../../tags/境外开户.md), [汇丰银行](../../../tags/汇丰银行.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/4710.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

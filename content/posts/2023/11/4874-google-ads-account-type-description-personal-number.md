@@ -69,3 +69,13 @@ tags:
 代理号可以通过谷歌Ads官方指定的一级代理商，二级代理商 进行开户
 
 谷歌代理商查询地址：<https://partnersdirectory.withgoogle.com/?regions=CN>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/4874.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

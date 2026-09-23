@@ -68,3 +68,13 @@ tags:
 ![获取邓白氏编码成功](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/03/645a4306d881fe2e3c28620cdc0ed12d.png?ssl=1)
 
 邓氏编码（DUNS）可以用作于发票、通知单、付款凭证、运输提单、清关和其它商业单据的通用标识符，国内用的少，这里只是用作于申请 EV SSL加密证书，其他用途，请自行查询。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[苹果](../../../tags/苹果.md), [邓白氏](../../../tags/邓白氏.md)
+- [在官网参与本文评论](https://jiami.dog/4195.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -109,3 +109,13 @@ INSERT YOUR CODE HERE
 ```
 
 data: {“et”:4},这个数字是4，我是使用事件4作为在后台接收事件，这个不做限定，可根据需要修改。后台代码这里暂不提供，自己根据原理编写。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[AdSense](../../../tags/adsense.md)
+- [在官网参与本文评论](https://jiami.dog/2621.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

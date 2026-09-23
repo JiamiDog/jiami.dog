@@ -132,3 +132,13 @@ WISE一般来说不行
 先有实体卡，不知道有没有虚拟卡，实体卡有免费取2次ATM一个月
 
 GBPtoCNY大概是0.98%，超额ATM费用是1.75%
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[wise](../../../tags/wise.md), [信用卡](../../../tags/信用卡.md)
+- [在官网参与本文评论](https://jiami.dog/2795.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

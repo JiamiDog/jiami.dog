@@ -101,3 +101,13 @@ tags:
 支付完毕后，你就获得了一个国外虚拟手机号码，可以用它来接收验证码，短信了。如下图所示：
 
 ![国外虚拟电话卡](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/02/6e48a3a3d0355b0e1f69e187e9ae9e49.webp?ssl=1 "2023 在线购买国外手机号方便注册海外账号指南 5") [**直达 SMS-ACTIVATE 官网购买国外手机号**](https://jiami.dog/sms-activate)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[SMS\-ACTIVATE](../../../tags/sms-activate.md), [Telegram](../../../tags/telegram.md)
+- [在官网参与本文评论](https://jiami.dog/4622.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

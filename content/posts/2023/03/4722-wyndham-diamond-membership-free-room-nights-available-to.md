@@ -62,3 +62,13 @@ https://www.wyndhamhotels.com/zh-cn/wyndham-rewards/hotel-deals/member-month
 温德姆的品牌其实也是很多的，速8大家应该很熟悉吧，也是可以刷的。
 
 算个账，如果你有刚需的话，可以住6晚25美元的客房大概消费150美元，按照现在的汇率就是1000出头的样子，如果你去兑换上面图中的酒店，那么相当于最后得到2晚价值800元的酒店，这个成本还是非常友好的。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[温德姆](../../../tags/温德姆.md), [钻石卡](../../../tags/钻石卡.md)
+- [在官网参与本文评论](https://jiami.dog/4722.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

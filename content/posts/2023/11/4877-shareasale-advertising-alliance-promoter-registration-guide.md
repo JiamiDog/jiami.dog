@@ -87,3 +87,13 @@ tags:
 审核：一般2-5个工作日通过填写的邮箱得到反馈，如果没有反馈则默认失败，期间登录用户名无效，如果审核通过则用用户名登录即可
 
 （一般如果审核通过，在第2个-第3个工资日会发通过审核的邮件）
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[广告](../../../tags/广告.md)
+- [在官网参与本文评论](https://jiami.dog/4877.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

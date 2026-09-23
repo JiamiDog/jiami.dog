@@ -85,3 +85,13 @@ bitfinex 支持多种充值和提现方式，国内最简单的充值方式无�
 ![b54dN.png](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/02/04ab69fb1d9d0f704168118015b2e51b.png?ssl=1)
 
 第 3 条附言  ·  4 天前补充下和客服沟通的流程吧，就目前而言，高级验证其实非常宽松，以后就不得而知了。自己提交资料后等了两天毫无动静，直接邮件客服五分钟不到回复说开始帮我审核。大概七八分钟后告诉我，账单地址不能是公司地址，让我重新上传个人地址的账单。本打算联系银行修改账单地址，但估计没上班，就用 ps 把公司地址抹了，打上个人地址重新上传，然后发邮件告诉客服已重新上传，不到五分钟邮件通知我高级认证完成。还有网友反馈护照到期了，靠着 ps 续期也通过了高级验证。另外客服邮箱要跟 support@bitfinex.com 沟通，compliance@bitfinex.com 只是通知审核问题，根本不鸟人。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[地址](../../../tags/地址.md)
+- [在官网参与本文评论](https://jiami.dog/4512.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

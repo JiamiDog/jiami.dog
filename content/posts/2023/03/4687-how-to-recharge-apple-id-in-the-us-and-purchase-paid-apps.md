@@ -68,3 +68,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/03/76db966d39939811db520acde4c365a1.png?ssl=1)
 
 这种情况与我们的付款方式没关系，**不管是绑定 PayPal 还是用礼品卡付款，都有可能碰到这种情况，这与我们的账号有关**，我们的账号处于风控之中。对我们国人使用美区账号而言，目前没特别好的办法解决这个问题。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[app](../../../tags/app.md), [付费应用](../../../tags/付费应用.md), [付费服务](../../../tags/付费服务.md), [信用卡](../../../tags/信用卡.md), [礼品卡](../../../tags/礼品卡.md), [苹果](../../../tags/苹果.md)
+- [在官网参与本文评论](https://jiami.dog/4687.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -35,3 +35,13 @@ tags:
 [通过招商银行的APP进行个人自助结汇](https://jiami.dog/2378.html)用几个词概括，简单、方便、快捷，美元兑换为人民币秒到账，[不用去网点柜台办理，不收取手续费](https://jiami.dog/2211.html)，无需要提供任何资料，也不用缴纳个人所得税，非常的 Nice，给招商银行点个赞。
 
 前面我有说到等汇率高的时候出手，那是因为现在汇率是真的很低，1：6.3563，不着急用钱，可以等到汇率高的时候进行结汇，这样你可以多获取到一点人民币，关注汇率可以在“外汇兑换”页面看到美元和其他货币的汇率走势。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[AdSense](../../../tags/adsense.md)
+- [在官网参与本文评论](https://jiami.dog/4205.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

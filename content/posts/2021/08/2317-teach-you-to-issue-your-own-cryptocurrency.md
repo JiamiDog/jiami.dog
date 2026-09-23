@@ -207,3 +207,13 @@ TOKENSYMBOL：rex
 好了，我们已经有一百万亿rex币了。
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/08/1629105017-37ce6822255e4f8204c44b4523644316.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[数字货币](../../../tags/数字货币.md)
+- [在官网参与本文评论](https://jiami.dog/2317.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

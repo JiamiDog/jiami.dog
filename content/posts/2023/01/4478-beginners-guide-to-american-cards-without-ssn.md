@@ -124,3 +124,13 @@ Amex 即是裁判也是选手，有很多神奇的操作，而且申请审批也
 ## **五、一些有用的链接** #Link
 
 - 美国信用分和信用报告查询，包括 ChexSystems
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[信用卡](../../../tags/信用卡.md)
+- [在官网参与本文评论](https://jiami.dog/4478.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

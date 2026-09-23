@@ -50,3 +50,13 @@ tags:
 - 输入过滤信息rtsp，导出过滤结果，其中Info信息里的PLAY地址即为IPTV直播地址，可以通过播放器直接播放验证![1](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/08/1629879894-6d722827c916d6924a8ecd81bae92911-2.png?ssl=1)
 
 ![2](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/08/1629879895-7d889e11cbb53bef242efab6689cd42a-1.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[iptv](../../../tags/iptv.md), [运营商](../../../tags/运营商.md)
+- [在官网参与本文评论](https://jiami.dog/2557.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

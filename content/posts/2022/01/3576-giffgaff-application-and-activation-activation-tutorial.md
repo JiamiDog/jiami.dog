@@ -141,3 +141,13 @@ Giffgaff与传统的行动电话电信业者不同，区别在于其使用者也
 请注意，帐号密码一定要记住，否则之后**无法进行储值**
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/a586324e6ccde746919badf0f6cd3fbc.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[运营商](../../../tags/运营商.md)
+- [在官网参与本文评论](https://jiami.dog/3576.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

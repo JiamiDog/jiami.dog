@@ -80,3 +80,13 @@ nohup ./rssbot-zh-amd64-linux TELEGRAM-BOT-TOKEN &
 ```
 
 OK，搭建完成；后台会每隔五分钟刷新一次`RSS`订阅
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[rss](../../../tags/rss.md), [Telegram](../../../tags/telegram.md), [vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/2753.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

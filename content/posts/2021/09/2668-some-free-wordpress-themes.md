@@ -164,3 +164,13 @@ github： <https://github.com/yrccondor/mdx>
 演示： <https://flyhigher.top/>
 
 上面主题都是官方原版，无任何后门，可以放心使用，如果还有其他未收录的免费WordPress主题提供，请在留言区评论，感谢支持！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[wordpress](../../../tags/wordpress.md)
+- [在官网参与本文评论](https://jiami.dog/2668.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

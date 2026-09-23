@@ -61,3 +61,13 @@ Avis还和好订网（Hotels.com）有合作，双方可以会籍匹配：
 第二个印象恐怕是会员待遇太空泛，看不出有什么实质性的福利。什么叫做升级的客户服务？官网上的描述语焉不详，确实让人一头雾水。实际上这是一个相当有用的福利：**如果你预订了预付费且不可退换的住宿，但遇见突发情况需要取消的话，银卡/金卡会员仍能够获得全额退款**。
 
 以上活动貌似均没有截止日期。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[avis](../../../tags/avis.md), [Hotel\.com](../../../tags/hotel-com.md)
+- [在官网参与本文评论](https://jiami.dog/2661.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

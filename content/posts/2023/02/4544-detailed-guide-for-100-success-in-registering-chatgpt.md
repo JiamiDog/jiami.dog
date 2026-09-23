@@ -132,3 +132,13 @@ javascript:window.localStorage.removeItem(Object.keys(window.localStorage).find(
 注册完后，打开ChatGPT网站去登陆。这里你要选择你打算如何使用OpenAI。随便选择吧。
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/02/1676738841-20230219004543.png?resize=2560%2C1600&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[ChatGPT](../../../tags/chatgpt.md), [openai](../../../tags/openai.md)
+- [在官网参与本文评论](https://jiami.dog/4544.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

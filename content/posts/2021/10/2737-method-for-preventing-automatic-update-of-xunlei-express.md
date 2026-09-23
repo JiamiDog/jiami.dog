@@ -82,3 +82,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/10/846591289.png?resize=554%2C265&ssl=1)
 
 **搞定，迅雷极速版不会再更新了，可以愉快的使用了**
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[迅雷](../../../tags/迅雷.md)
+- [在官网参与本文评论](https://jiami.dog/2737.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

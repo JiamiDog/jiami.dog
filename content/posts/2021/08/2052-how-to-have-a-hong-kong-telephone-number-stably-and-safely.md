@@ -93,3 +93,13 @@ tags:
 4. 选择登记开通服务
 5. 选择无SIM卡
 6. 付费套餐，一年68港币
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[香港电话卡](../../../tags/香港电话卡.md)
+- [在官网参与本文评论](https://jiami.dog/2052.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

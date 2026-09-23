@@ -56,3 +56,13 @@ Bankera 开户后会提供两个个人名 iban [欧元](https://jiami.dog/tag/eu
 这是英国转运到国内的运费和快递，可以参考下：
 
 ![m07Td.png](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/02/481886c87d379fedffce697df7aab6d0.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[wise](../../../tags/wise.md), [欧元](../../../tags/欧元.md)
+- [在官网参与本文评论](https://jiami.dog/4568.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

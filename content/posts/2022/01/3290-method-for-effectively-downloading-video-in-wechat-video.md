@@ -43,3 +43,13 @@ tags:
 下载完成了，打开播放一下：
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/2022010315365981.jpg?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[微信](../../../tags/微信.md)
+- [在官网参与本文评论](https://jiami.dog/3290.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

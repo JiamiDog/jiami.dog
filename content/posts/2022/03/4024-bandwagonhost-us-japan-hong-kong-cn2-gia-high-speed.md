@@ -152,3 +152,13 @@ SSD RAID-10，免费自动备份，免费快照；支持后台自助迁移机房
 - ~~bwh88.net（已被墙）~~
 - [bwh89.net](https://jiami.dog/bwh89)（移动用户无法访问）
 - [**bwh81.net**](https://jiami.dog/bwh81)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[gia](../../../tags/gia.md), [搬瓦工](../../../tags/搬瓦工.md), [美国vps](../../../tags/美国vps.md), [香港vps](../../../tags/香港vps.md)
+- [在官网参与本文评论](https://jiami.dog/4024.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -71,3 +71,13 @@ next
 通过之后你会收到这样的邮件
 
 ![AdSense Admob Play 开发者使用 W9 信息免税教程](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/04/d34d9569f775e20089cd1d1d32aab901.jpeg?ssl=1 "AdSense Admob Play 开发者使用 W9 信息免税教程")
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[AdSense](../../../tags/adsense.md)
+- [在官网参与本文评论](https://jiami.dog/4818.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -132,3 +132,13 @@ tags:
 选取为晚高峰测试时间。小鸡性能如果不做别的用途情况下纯走带宽完全足够使用，况且测试的还是 1 核心。
 
 使用感受，CERA CMI HK 的线路用过已超半年，属主力生产力。原[腾讯云](https://jiami.dog/3453.html) HK GIA 频繁更换线路，晚高峰已经没有去年丝滑了。同线路下有多家 IDC 接入。商家承诺不超售，价格不便宜。请考虑荷包大小。对有能力的可以考虑月付测试，支持 3 天无理由退款，推荐购买 [**100 美元年付款 300M**](https://jiami.dog/vollcloud100) 那款机型。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Vollcloud](../../../tags/vollcloud.md), [vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/3947.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

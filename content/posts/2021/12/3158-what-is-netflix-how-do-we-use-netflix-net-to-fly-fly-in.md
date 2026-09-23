@@ -104,3 +104,13 @@ Netflix 根据用户的 IP 地址来提供不同的内容，与账号所在区�
 新加坡
 资源：约2400部电影，1200部电视剧。
 字幕：基本都有中文字幕。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[netflix](../../../tags/netflix.md)
+- [在官网参与本文评论](https://jiami.dog/3158.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -91,3 +91,13 @@ PowerPoint：
 2.点击setup安装，安装完成后点击“文件”–”账户”，显示需要激活
 3.运行激活工具，点击“KMSAuto Lite”–”激活office”即可
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/02/bdc3169d424a25fa4e01a7d7410f8d33.png?resize=1280%2C631&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：无
+- [在官网参与本文评论](https://jiami.dog/3691.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

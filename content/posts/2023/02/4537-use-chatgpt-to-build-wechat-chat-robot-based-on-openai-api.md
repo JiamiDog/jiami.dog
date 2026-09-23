@@ -173,3 +173,13 @@ nohup python3 app.py & tail -f nohup.out          # 在后台运行程序并通�
 ## 常见问题
 
 FAQs： <https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[openai](../../../tags/openai.md), [微信](../../../tags/微信.md)
+- [在官网参与本文评论](https://jiami.dog/4537.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

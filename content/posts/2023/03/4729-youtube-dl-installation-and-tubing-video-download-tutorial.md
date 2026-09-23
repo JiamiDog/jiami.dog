@@ -111,3 +111,13 @@ goto :download
 视频列中有“video only”标识的，需要同时下载音频轨，安装 FFmpeg 组件是为了正常合并 webm 格式，FFmpeg 组件需要大于 3.4.2 版本，建议保持最新。
 
 输入命令“pip install –upgrade youtube-dl”可检查更新组件，youtube-dl 也适用于其他网站，经常使用 youtube-dl 下载视频，建议保存最新版本，如有问题请留言。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[python](../../../tags/python.md), [youtube\-dl](../../../tags/youtube-dl.md)
+- [在官网参与本文评论](https://jiami.dog/4729.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

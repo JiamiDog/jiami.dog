@@ -81,3 +81,13 @@ Netflix 是支持非制内容的，TikTok 也是能直接播放的，YouTube 也
 ## 总结
 
 红卡我个人更推荐有对流量需求比较高的用户，毕竟这个流量价格其实还是蛮贵的。相比之下我个人还是推荐蓝卡，因为大多时候我们是需要一个号码接受短信和注册一些服务，综合更低的月租很明显更划算，这个流量只是偶尔应急用一用。哦对了这两张卡都是不用签约，如果不想用了直接扔了就可以，还是非常方便。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[电信](../../../tags/电信.md), [通信](../../../tags/通信.md)
+- [在官网参与本文评论](https://jiami.dog/3080.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -180,3 +180,13 @@ Stripe的官方并没有禁止这种行为，官方表明一个Stripe账户是�
 - 更轻松的报告和对帐。分开您的企业处理的付款，可以更轻松地找到付款，创建和导出报告，以及将付款与您的银行帐户进行对帐。
 - 支付到单独的银行帐户。每个其他帐户都可以将单独的银行帐户用于付款（尽管您可以根据需要使用同一银行帐户）。
 - 防止账户牵连。这是很重要的，如果多家店铺或网站绑定在一个相同的Stripe账户主体下，若有一个店铺的拒单率出奇的高，那么可能导致整个账户被停用，从而牵连到其他店铺的正常业务。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[stripe](../../../tags/stripe.md), [信用卡](../../../tags/信用卡.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2191.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

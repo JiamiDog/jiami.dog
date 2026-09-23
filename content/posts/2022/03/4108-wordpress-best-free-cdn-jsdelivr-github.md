@@ -96,3 +96,13 @@ https://[cdn](https://jiami.dog/tag/cdn "cdn").jsdelivr.net/gh/你的用户名/�
 ## 总结
 
 虽然这种免费CDN折腾起来有点麻烦，不过毕竟免费，还可以作为图床用能节省你的主机流量，加上jsDelivr 和 Github 都是大厂还是比较放心的。喜欢瞎折腾的，可以把整站都丢到 Github 上面，然后通过插件「WP Super Cache」里面的CDN功能来处理静态资源，这里就不给大家演示了，有兴趣自己折腾。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[cdn](../../../tags/cdn.md), [Github](../../../tags/github.md), [jsDelivr](../../../tags/jsdelivr.md), [wordpress](../../../tags/wordpress.md)
+- [在官网参与本文评论](https://jiami.dog/4108.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

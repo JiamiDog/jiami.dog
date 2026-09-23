@@ -101,3 +101,13 @@ Google服务框架是提供Google各项服务的组件，例如Gmail、Youtube�
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/12/1640444898-20211225230535-1.png?resize=889%2C757&ssl=1)
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/12/1640444910-20211225230547-1.png?resize=902%2C513&ssl=1)
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/12/1640444926-20211225230601-1.png?resize=868%2C820&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[android](../../../tags/android.md), [arm](../../../tags/arm.md), [框架](../../../tags/框架.md), [谷歌](../../../tags/谷歌.md), [谷歌手机](../../../tags/谷歌手机.md)
+- [在官网参与本文评论](https://jiami.dog/3090.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

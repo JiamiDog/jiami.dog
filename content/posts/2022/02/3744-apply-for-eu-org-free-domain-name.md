@@ -133,3 +133,13 @@ tags:
 看到这个 done 就是已经提交申请，需要等待一段时间（短则几小时，长则几个月）等待审核通过，通过或者不通过的情况，官方都会发邮件给你，注意查收邮件。
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/02/abc275fa6b6083146ff50b8324a85128.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[域名](../../../tags/域名.md)
+- [在官网参与本文评论](https://jiami.dog/3744.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

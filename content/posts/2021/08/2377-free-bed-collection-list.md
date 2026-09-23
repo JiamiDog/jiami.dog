@@ -170,3 +170,13 @@ u-file是以前的一个免费项目，现在搞不到账号了，可以看作�
 ## 压缩工具
 
 这里贴上一个无限次数调用tinypng（堪称最好用的压缩工具）的win客户端，导入点确定就会自动压缩替换文件，非常好用，给图床大佬们节约点空间和流量吧，也能加快自己网站图片的打开速度，https://github.com/focusbe/tinyImage
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[图床](../../../tags/图床.md)
+- [在官网参与本文评论](https://jiami.dog/2377.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -111,3 +111,13 @@ AAA，BBB，…，FFF替换为获取到的值！这里只挂了三个京东账�
 ## 五、最后
 
 感谢开源项目的大佬们！感谢京东爸爸的羊毛！最后，小伙伴们且薅且珍惜！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[docker](../../../tags/docker.md), [青龙](../../../tags/青龙.md)
+- [在官网参与本文评论](https://jiami.dog/2664.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

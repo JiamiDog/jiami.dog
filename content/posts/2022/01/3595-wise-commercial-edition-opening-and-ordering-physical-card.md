@@ -127,3 +127,13 @@ Wise商业版同样也是支持邀请好友功能的，但是我看这个连结�
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/1fe09a3bb9110f527bdff16d70f59f6f.png?ssl=1)
 
 综上所述呢，如果你目前没有个人版Wise帐户，我强烈建议你先注册一个个人版Wise帐户，做完KYC之后你可以同时撸一张个人版的Wise借记卡，此时再叠加升级一个商业版帐户就可以省去KYC流程了，只是个人建议哈，不喜勿喷~
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[wise](../../../tags/wise.md)
+- [在官网参与本文评论](https://jiami.dog/3595.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

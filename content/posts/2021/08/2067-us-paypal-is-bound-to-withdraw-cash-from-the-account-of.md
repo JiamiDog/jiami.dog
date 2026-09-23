@@ -191,3 +191,13 @@ Paypal支付的优势:
 5. 不太友好的客服体系。这是广大网友诟病最多的地方，客服体验确实很差。
 
 7.根据新规，如果客户超出了美国国家税务局规定的申报阈值（20,000美元和200笔交易），则会被要求验证其美国纳税人身份。如果您不是美国公民或美国实体，则需要填写在线表格，证明您没有向美国缴纳所得税的义务。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[PayPal](../../../tags/paypal.md), [paypal中国](../../../tags/paypal中国.md), [Velo](../../../tags/velo.md), [信用卡](../../../tags/信用卡.md), [华美银行](../../../tags/华美银行.md), [美国paypal](../../../tags/美国paypal.md), [美国银行](../../../tags/美国银行.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2067.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

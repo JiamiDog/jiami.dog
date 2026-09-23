@@ -126,3 +126,13 @@ United States
 中国身份证需要翻译公证，需加盖正规翻译公司的中英文公章，没有渠道的话，直接找他做，加25美金，付之前窗口咨询他。
 
 拿到公证文档后，提交即可， 一般审核1-2个工作日，通过后就可以使用你的地址了。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[Anytimemailbox](../../../tags/anytimemailbox.md)
+- [在官网参与本文评论](https://jiami.dog/88.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

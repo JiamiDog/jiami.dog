@@ -49,3 +49,13 @@ https://kf.qq.com/faq/220505uE7ZbI220505NVrAZV.html
 ## **重点说明**
 
 微信支付商户号注销申请书除法人签名/捺手印/签署日期以外，其它内容均需要打印，红字为必填内容，手印捺在签名处，签名需要清晰可见，需用正楷，不要艺术签，法人身份证手持照也要拍的清晰，否则都是审核不通过。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[微信支付](../../../tags/微信支付.md), [腾讯客服](../../../tags/腾讯客服.md)
+- [在官网参与本文评论](https://jiami.dog/4471.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

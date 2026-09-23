@@ -63,3 +63,13 @@ Windows 系统下：
 **6.清除缓存**
 
 如果你之前就有在使用WP Super Cache，请务必清楚缓存，否则不会加载，并且会出错，配置好CDN后再生成缓存。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[wordpress](../../../tags/wordpress.md)
+- [在官网参与本文评论](https://jiami.dog/2618.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

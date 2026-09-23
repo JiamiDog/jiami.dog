@@ -70,3 +70,13 @@ RaiDrive：【[**官方下载**](https://www.raidrive.com/)】
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/04/1682673574-20230428171848.png?resize=1280%2C558&ssl=1)
 
 **注意:如果无法连接，请稍后再试，我是注册后过了10分钟左右才连接成功！**
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[webdav](../../../tags/webdav.md)
+- [在官网参与本文评论](https://jiami.dog/4832.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

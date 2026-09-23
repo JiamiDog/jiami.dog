@@ -154,3 +154,13 @@ YouTube Premium家庭版可以邀请最多5位，所以你可以和朋友分摊�
 3. 建议注册全程通过电脑操作，不要使用iOS 、Android 或平板会导致容易购买失败。
 4. 打开「YouTube Premium」网页，先确认家庭成员价格是否变成129.00卢比起，这才是真正跨区到印度
 5. 对于参与你的家庭组的其他账号，只要账号未锁区，就能加入你的印度家庭组
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[youtube](../../../tags/youtube.md)
+- [在官网参与本文评论](https://jiami.dog/2236.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

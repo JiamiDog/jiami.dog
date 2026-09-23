@@ -311,3 +311,13 @@ Fiverr上的种类是越来越多，下面列出目前所有Fiverr工作类别�
 ### **12. 可以的话，提供额外Bonus**
 
 买主的评价对于Gig 排名十分重要，除了快速完成案子以外，你如果能够提供额外的Bonus 给买主，不难想像买主都喜欢花小钱购买物超所值的服务，品质没问题的话，评价一定能够非常好。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[fiverr](../../../tags/fiverr.md)
+- [在官网参与本文评论](https://jiami.dog/3772.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

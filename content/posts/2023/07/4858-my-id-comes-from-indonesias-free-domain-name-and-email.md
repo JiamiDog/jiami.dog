@@ -75,3 +75,13 @@ IMAP：mymail.id
 国内访问还算流畅！邮箱功能比较简单！没有邮件转发功能。
 
 个人主页可自己定制样式。也支持个人商场，可直接跳转到自己的下单地址。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[域名](../../../tags/域名.md), [域名邮箱](../../../tags/域名邮箱.md), [软件](../../../tags/软件.md)
+- [在官网参与本文评论](https://jiami.dog/4858.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

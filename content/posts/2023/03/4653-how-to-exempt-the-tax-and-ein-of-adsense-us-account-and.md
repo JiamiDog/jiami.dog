@@ -160,3 +160,13 @@ https://services.google.com/fh/files/misc/google_reasonable_written_explanation_
 2，W9如果没有美国朋友帮忙基本上不要去考虑，就是帮忙也是别人帮你缴税，一般都是陈述自己是非义务纳税人填写W8ben表格。
 
 3，一旦审核通过，就不要随便改动信息，不然麻烦事一大堆。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[AdSense](../../../tags/adsense.md), [EIN](../../../tags/ein.md), [ITIN](../../../tags/itin.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/4653.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

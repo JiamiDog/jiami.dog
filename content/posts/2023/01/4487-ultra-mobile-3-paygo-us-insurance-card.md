@@ -87,3 +87,13 @@ Ultra Mobile PayGo 直接漫游激活会没有信号收不到短信，需要通�
 WiFi Calling 需在手机卡激活后，在支持该功能的手机设置中打开 WiFi Calling 开关，并在弹出的页面中填入美国地址即可激活。
 
 WiFi Calling over Cellular Data 则需要支持该功能的双卡 iPhone 手机，将 Ultra 卡漫游到不支持的网络上（比如中国电信），然后会无服务，再等会就会出现 **WiFi Calling over Cellular Data**（由于墙的问题，另一张卡建议为支持流量漫游的漫游卡）
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Ultra Mobile](../../../tags/ultra-mobile.md)
+- [在官网参与本文评论](https://jiami.dog/4487.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

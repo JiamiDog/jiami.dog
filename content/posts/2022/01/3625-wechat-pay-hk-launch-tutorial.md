@@ -54,3 +54,13 @@ tags:
 ## 更新：
 
 WeChat Pay HK现已支持仅验证香港手机号开通
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[信用卡](../../../tags/信用卡.md), [微信](../../../tags/微信.md)
+- [在官网参与本文评论](https://jiami.dog/3625.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

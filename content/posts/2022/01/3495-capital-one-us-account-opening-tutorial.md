@@ -119,3 +119,13 @@ I’ll fund this account later
 5.等你打开链接上传护照完成后，页面提示成功了后告诉他”I finished”
 
 6.等待一会他会告诉你你的账户已经基本开好了，现在请拿笔记下来网页地址和Code（用于创建账户），这时候一定要记清楚你的Code，因为如果错误就要重头再来（说多了都是泪），打开他告诉你的网页按照提示输入Code和SSN后四位即可创建账户，注意，新用户需要在60天内入金任意金额用于启用账户
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/3495.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

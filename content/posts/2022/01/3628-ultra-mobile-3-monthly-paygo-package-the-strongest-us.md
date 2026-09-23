@@ -223,3 +223,13 @@ Ultra Mobile联系方式如下(建议使用第1种)
 2、支持美国各家银行的注册、短信验证和绑定
 3、支持海外各种电商平台卖家账号的注册、验证和绑定，诸如阿里巴巴国际站、速卖通、亚马逊、eBay、沃尔玛等
 4、注册海外各种需要实体电话卡才能注册的项目
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[t\-mobile](../../../tags/t-mobile.md), [Ultra Mobile](../../../tags/ultra-mobile.md)
+- [在官网参与本文评论](https://jiami.dog/3628.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

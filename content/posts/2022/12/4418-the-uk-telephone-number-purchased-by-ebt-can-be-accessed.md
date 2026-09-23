@@ -82,3 +82,13 @@ tags:
 从官方的态度来也不看好，界面做的很粗糙。
 
 可能唯一比较好的就是不实名吧~
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[易博通](../../../tags/易博通.md), [英国电话号码](../../../tags/英国电话号码.md)
+- [在官网参与本文评论](https://jiami.dog/4418.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

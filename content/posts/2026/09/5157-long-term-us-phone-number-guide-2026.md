@@ -157,3 +157,13 @@ Hushed 官方把中国大陆列为不可用地区，并明确不保证第三方�
 不是。Airalo 要看具体套餐，Discover+ 带美国 +1 号码，而多数普通套餐只有流量。Nomad 美国 eSIM 是纯流量，不提供可用于电话、短信或验证的号码。
 
 资料核对日期：2026-09-23。套餐、覆盖、KYC、漫游费率和第三方验证码政策都可能调整，请以购买当天的官方页面和结账页为准。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Tello](../../../tags/tello.md), [Ultra Mobile](../../../tags/ultra-mobile.md), [美国手机号](../../../tags/美国手机号.md)
+- [在官网参与本文评论](https://jiami.dog/5157.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

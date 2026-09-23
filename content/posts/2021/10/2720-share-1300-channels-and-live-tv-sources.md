@@ -76,3 +76,13 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 ```
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[电视直播](../../../tags/电视直播.md)
+- [在官网参与本文评论](https://jiami.dog/2720.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

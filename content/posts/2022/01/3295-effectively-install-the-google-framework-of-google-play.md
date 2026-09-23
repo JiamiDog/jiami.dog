@@ -56,3 +56,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/2022010315410512.jpg?ssl=1)
 
 同样有很多版本，建议选择最新版本，如果安装以后出现闪退情况，再选择其他版本安装，总有一款适合你。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[android](../../../tags/android.md), [谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/3295.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

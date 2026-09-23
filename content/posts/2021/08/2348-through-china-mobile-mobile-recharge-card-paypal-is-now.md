@@ -94,3 +94,13 @@ SEA Gamer Mall简称SEAGM
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/08/1629284392-67a1b87a180c2d25f3bfc75fc1f99302.jpeg?resize=1080%2C1920&ssl=1)
 
 以上是目前个人觉得最稳定靠谱的方式了。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[PayPal](../../../tags/paypal.md), [支付宝](../../../tags/支付宝.md)
+- [在官网参与本文评论](https://jiami.dog/2348.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

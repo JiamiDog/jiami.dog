@@ -139,3 +139,13 @@ systemctl status cloudreve
 - 如果你有宝塔等带防火墙的记得把5212端口放开
 - 想绑定域名的话就反代，[作者的反代教程](https://docs.cloudreve.org/getting-started/install#fan-xiang-dai-li)，程序是自带web的，但是不能开启https，想挂载onedrive是需要开启HTTPS的，这里可以用宝塔反代，开启https也简单。我应该在博客刚创建的时候讲过宝塔如何反代。
 - 具体的流程以及docker搭建可以去作者那里看，作者的文档：<https://docs.cloudreve.org/>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[云盘](../../../tags/云盘.md)
+- [在官网参与本文评论](https://jiami.dog/2381.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

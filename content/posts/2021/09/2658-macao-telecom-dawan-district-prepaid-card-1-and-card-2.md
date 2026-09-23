@@ -57,3 +57,13 @@ tags:
 适合国外社交帐号长期在线轻度流量使用的场景；
 
 充值关注微信公众号“中国电信澳门”即可自助激活，充值。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[电信](../../../tags/电信.md)
+- [在官网参与本文评论](https://jiami.dog/2658.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

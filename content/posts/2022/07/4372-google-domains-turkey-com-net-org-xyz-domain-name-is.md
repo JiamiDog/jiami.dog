@@ -66,3 +66,13 @@ PayPal、信用卡、Google礼品卡、借记卡
 | .site | 125 | 48.5 |
 
 **温馨提示**：如果你仅仅只是为了续费便宜，需要在短期内迁出，请计算好续费后的域名有效期，不要超过9年，否则你在短期内无法迁出！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[org域名](../../../tags/org域名.md), [xyz域名](../../../tags/xyz域名.md), [土耳其汇率](../../../tags/土耳其汇率.md), [域名](../../../tags/域名.md), [域名购买](../../../tags/域名购买.md)
+- [在官网参与本文评论](https://jiami.dog/4372.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

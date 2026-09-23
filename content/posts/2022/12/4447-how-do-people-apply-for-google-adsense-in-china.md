@@ -104,3 +104,13 @@ Google Adsense注册流程
 自己设置Windows登录密码，服务器开起来之后，远程登录进桌面，打开远程电脑里的浏览器，顺利访问谷歌以及一切，合规合法。
 
 如果连远程桌面都不会请看腾讯云官方文档：<https://cloud.tencent.com/document/product/213/35703>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[AdSense](../../../tags/adsense.md), [https](../../../tags/https.md), [广告](../../../tags/广告.md), [谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/4447.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

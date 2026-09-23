@@ -75,3 +75,13 @@ tags:
 4. 开户成功后，会获得相关银行提款卡、密保器、支票本、密码函（也就是你的相关账户的密码）。存款2000港币以上激活即可使用。不过一定牢记自己在网上银行设置的相关密码，一旦忘记要找回是很麻烦的一件事。
 
 总结来说，香港汇丰银行账户是大家绝对值得拥有的一个离岸账户，更多的相关官方咨询，大家可以去汇丰官网去了解。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[境外开户](../../../tags/境外开户.md), [汇丰银行](../../../tags/汇丰银行.md), [离岸账户](../../../tags/离岸账户.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2387.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

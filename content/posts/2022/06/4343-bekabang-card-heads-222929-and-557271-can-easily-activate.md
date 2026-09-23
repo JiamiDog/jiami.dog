@@ -54,3 +54,13 @@ Wise基本上可以收Adsense各个国家的支付款，包括并不局限于绝
 实操证明：
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/06/1654598088-20220607183424.png?resize=966%2C216&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[wise](../../../tags/wise.md), [境外开户](../../../tags/境外开户.md)
+- [在官网参与本文评论](https://jiami.dog/4343.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

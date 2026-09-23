@@ -133,3 +133,13 @@ xiaoz用Giffgaff给香港无忧行的手机号发送短信成功。
 xiaoz也是第一次使用Giffgaff，先用一段时间看看会不会翻车。
 
 Giffgaff官网：<https://www.giffgaff.com/>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Giffgaff](../../../tags/giffgaff.md), [运营商](../../../tags/运营商.md)
+- [在官网参与本文评论](https://jiami.dog/4745.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

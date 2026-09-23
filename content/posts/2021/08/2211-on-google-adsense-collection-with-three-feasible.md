@@ -235,3 +235,13 @@ Google Adsense官方允许重复提交3次，每次在发出PIN码3周后如果�
 2. 避免一个Adsense账户绑定多个网站或者关联多个youtube账户，这样可以防止关联，如果因为某种原因，有一个劣质的网站导致整个账户被停权或者销户就很麻烦了。
 3. 严格遵守[Google adsense的合作规范](https://support.google.com/adsense/answer/48182?hl=zh-Hans)，不要作弊。Cookies、IP、网卡MAC，CPU、硬盘、显卡等诸多因素都会成为Google Adsense判断作弊的条件，当然，Google不会披露相关细节，判断机制包括但不限于如上几种。不要出现太多的无效点击或者欺诈性点击。
 4. 千万不要点击自己的广告、千万不要点击自己的广告、千万不要点击自己的广告、重要的事情说三遍，不要尝试去和Google adsense的团队捉迷藏，最终受伤的一定是你自己。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[AdSense](../../../tags/adsense.md), [payoneer](../../../tags/payoneer.md), [Velo](../../../tags/velo.md), [华美银行](../../../tags/华美银行.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/2211.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

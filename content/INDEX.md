@@ -1,8 +1,21 @@
 # 加密狗文章目录
 
-本目录由同步程序从 jiami.dog 的公开 WordPress posts 自动生成；官网是权威版本。
+[返回仓库首页](../README.md) · [访问 jiami.dog 官网](https://jiami.dog/) · [参与讨论](https://github.com/JiamiDog/jiami.dog/discussions)
 
-当前镜像：**184** 篇。
+这里收录从 jiami.dog 同步的 **184** 篇公开文章；官网版本始终是权威原文。
+
+## 按分类浏览
+
+- [资源攻略](categories/ziyuan-gonglue.md)（115 篇）
+- [互联网金融](categories/hulianwang-jinrong.md)（35 篇）
+- [赚钱有方](categories/zhuanqian-youfang.md)（24 篇）
+- [常旅客](categories/changlvke.md)（11 篇）
+
+## 热门主题
+
+[信用卡](tags/信用卡.md)（18） · [PayPal](tags/paypal.md)（15） · [美国银行](tags/美国银行.md)（12） · [AdSense](tags/adsense.md)（11） · [银行](tags/银行.md)（10） · [vps](tags/vps.md)（8） · [谷歌](tags/谷歌.md)（8） · [境外开户](tags/境外开户.md)（7） · [wise](tags/wise.md)（6） · [域名](tags/域名.md)（6） · [甲骨文](tags/甲骨文.md)（6） · [Telegram](tags/telegram.md)（5） · [wordpress](tags/wordpress.md)（5） · [电信](tags/电信.md)（5） · [美国paypal](tags/美国paypal.md)（5） · [苹果](tags/苹果.md)（5） · [运营商](tags/运营商.md)（5） · [cdn](tags/cdn.md)（4） · [cloudflare](tags/cloudflare.md)（4） · [EIN](tags/ein.md)（4） · [ITIN](tags/itin.md)（4） · [netflix](tags/netflix.md)（4） · [Velo](tags/velo.md)（4） · [华美银行](tags/华美银行.md)（4） · [android](tags/android.md)（3） · [ChatGPT](tags/chatgpt.md)（3） · [gia](tags/gia.md)（3） · [https](tags/https.md)（3） · [openai](tags/openai.md)（3） · [payoneer](tags/payoneer.md)（3）
+
+## 按年份浏览
 
 ## 2026
 

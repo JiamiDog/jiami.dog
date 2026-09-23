@@ -65,3 +65,13 @@ Telegraph 是即时聊天软件 [Telegram](https://jiami.dog/tag/telegram "Teleg
 而且上传的图片可以使用 telegraph 的服务器，也就是说这会是一个很好的国外图床，而且貌似不限制上传数量和图片大小。
 
 除此之外，还能用来建网站。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Telegram](../../../tags/telegram.md)
+- [在官网参与本文评论](https://jiami.dog/3943.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -64,3 +64,13 @@ tags:
 <https://www.wyndhamhotels.com/wyndham-rewards/caesars-rewards/status-match>
 
 其实酒店集团的高级会员拿着不用等于白拿，刚好大家可以看看之前的文章《[温德姆酒店集团夏天送福利：住二送一](https://jiami.dog/1987.html)》，可以同时协议价，活动，以及匹配来的高级会员一起用，这样才是真正的便宜住酒店，收益最大化。当您哪怕是个新手，这样尝试一次之后，基本上常旅客的初级基础就已经全部掌握了。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md), [常旅客](../../../categories/changlvke.md)
+- 主题：[温德姆](../../../tags/温德姆.md), [钻石](../../../tags/钻石.md), [钻石卡](../../../tags/钻石卡.md)
+- [在官网参与本文评论](https://jiami.dog/1992.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

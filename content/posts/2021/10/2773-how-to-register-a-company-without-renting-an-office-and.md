@@ -105,3 +105,13 @@ tags:
 最后附上新开办企业办理税费业务流程图（在各大税局都可以领到的宣传册）
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/10/1635230782-20211026143905-1.png?resize=1080%2C1920&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[个体户](../../../tags/个体户.md)
+- [在官网参与本文评论](https://jiami.dog/2773.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

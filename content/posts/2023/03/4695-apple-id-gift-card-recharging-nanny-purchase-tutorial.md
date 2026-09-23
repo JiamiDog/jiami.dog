@@ -79,3 +79,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/03/15bcd93f2dc4f0149c1b9672b289cdac.png?ssl=1)
 
 以上就是全部，我分享的很用心，也很详细，各种图片都贴上来了，如果帮到你记得给我点赞支持。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[信用卡](../../../tags/信用卡.md), [礼品卡](../../../tags/礼品卡.md), [苹果](../../../tags/苹果.md)
+- [在官网参与本文评论](https://jiami.dog/4695.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

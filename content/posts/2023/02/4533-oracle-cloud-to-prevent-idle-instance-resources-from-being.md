@@ -138,3 +138,13 @@ lookbusy 自己搜索部署方式
 ## 最后总结
 
 再好的保活教程也不如自己真实使用！建议大家别浪费云服务器多多利用起来！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[甲骨文](../../../tags/甲骨文.md)
+- [在官网参与本文评论](https://jiami.dog/4533.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

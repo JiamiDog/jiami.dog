@@ -60,3 +60,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/10/2812926139.png?resize=809%2C980&ssl=1)
 
 ## 搭建完毕
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[cloudflare](../../../tags/cloudflare.md), [谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/2728.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

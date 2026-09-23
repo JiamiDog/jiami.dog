@@ -216,3 +216,13 @@ tags:
 如果是兑换伙伴或联盟航空公司的，退改签都需要找出票的航空公司，实际乘机当然是找承运的航空公司。
 
 那万一真碰到不能坐了不退里程怎么办？改个延误的航班就可以按非自愿退票全退了，而且非自愿退票一般是把里程重新给三年有效期的（部分航司不遵循此规则）。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[南航](../../../tags/南航.md), [铁路](../../../tags/铁路.md)
+- [在官网参与本文评论](https://jiami.dog/48.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

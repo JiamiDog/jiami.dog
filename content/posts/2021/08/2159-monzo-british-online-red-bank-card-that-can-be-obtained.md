@@ -92,3 +92,13 @@ Monzo Bank Ltd is authorised by the Prudential Regulation Authority (PRA) and re
 - 可以和附近的 Monzo 使用者直接汇款
 - 没有国际汇款功能，不过可以TransferWise转入
 - 支持海外配送补卡，运费£30
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[英国银行](../../../tags/英国银行.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2159.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

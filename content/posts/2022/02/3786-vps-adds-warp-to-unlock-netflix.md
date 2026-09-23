@@ -252,3 +252,13 @@ CODE
 | --- |
 
 该过程视频教程（MisakaNo 制作）： https://www.bilibili.com/video/BV1gU4y1K7of?p=1&share\_medium=iphone&share\_plat=ios&share\_session\_id=18DB1799-F06C-42FF-8647-E2A3322B37A3&share\_source=COPY&share\_tag=s\_i&timestamp=1639369745&unique\_k=3xHUpod
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[netflix](../../../tags/netflix.md)
+- [在官网参与本文评论](https://jiami.dog/3786.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

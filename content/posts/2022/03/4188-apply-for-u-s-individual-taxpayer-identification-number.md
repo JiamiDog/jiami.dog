@@ -167,3 +167,13 @@ Thank you in advance,Sandra
 
 - 注册credit.com：必须美国ip才可以访问；
 - 网申Chase, Citibank, AMEX, HSBC等信用卡如果被拒绝，收到纸质说明信函时，如果这些发卡机构查到了你的信用分，那么信函上大概率是会告诉你你的信用分的。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[fiverr](../../../tags/fiverr.md), [ITIN](../../../tags/itin.md), [信用卡](../../../tags/信用卡.md)
+- [在官网参与本文评论](https://jiami.dog/4188.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

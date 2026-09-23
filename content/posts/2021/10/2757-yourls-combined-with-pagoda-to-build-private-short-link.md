@@ -167,3 +167,13 @@ YOURLS stands for Your Own URL Shortener. It is a small set of PHP scripts that 
 在浏览器里打开 `http://你的域名/admin` 会跳转到安装页面，点击 `INSTALL YOURLS` 按钮开始安装。接着打开 `http://你的域名/admin` 输入账号 `admin` 密码 `123456` 开始使用。
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/286b7e9cfa9311b83bd11c3d085d4674.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[YOURLS](../../../tags/yourls.md), [宝塔](../../../tags/宝塔.md), [短链接](../../../tags/短链接.md)
+- [在官网参与本文评论](https://jiami.dog/2757.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

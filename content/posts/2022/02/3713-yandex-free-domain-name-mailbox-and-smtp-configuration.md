@@ -93,3 +93,13 @@ SMTP 加密方式：SSL
 SMTP 账户：你的 yandex 邮箱（确保 mail 的设置中开启了 IMAP）
 
 SMTP 密码：你刚刚设置的 APP Passwords
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[yandex](../../../tags/yandex.md)
+- [在官网参与本文评论](https://jiami.dog/3713.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

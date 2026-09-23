@@ -40,3 +40,13 @@ Adobe发布了**Photoshop CS6**的正式版，在CS6中整合了其Adobe专有�
 6. 图像编辑窗口：中间窗口是图像窗口，它是Photoshop的主要工作区，用于显示图像文件。图像窗口带有自己的标题栏，提供了打开文件的基本信息，如文件名、缩放比例、颜色模式等。如同时打开两副图像，可通过单击图像窗口进行切换。图像窗口切换可使用Ctrl+Tab。
 
 链接：<https://jiamidog.lanzoup.com/ik1UG0048hch>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Photoshop](../../../tags/photoshop.md)
+- [在官网参与本文评论](https://jiami.dog/3694.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

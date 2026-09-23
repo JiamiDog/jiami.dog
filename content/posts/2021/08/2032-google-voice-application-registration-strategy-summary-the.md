@@ -257,3 +257,13 @@ Google Voice充值
 2>检索新的号码，点击“Purchase number”继续，绑定信用卡支付成功。此时在旧号码下面多出了一个”Make Permanent”标签以及有效期。
 
 3>点击”Make Permanent”标签，花费$20美金，将原号码升级为永久号，此时有效期限制消失，继续点击Make primary ，可以将此号更新为主号码。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[接码平台](../../../tags/接码平台.md)
+- [在官网参与本文评论](https://jiami.dog/2032.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

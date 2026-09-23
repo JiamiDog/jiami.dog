@@ -146,3 +146,13 @@ tags:
 - AppleCard可能会被要USID，所以建议信用记录长一点
 - 各种副卡一般可以（discover等要求SSN的除外）
 - AMEX主卡（有信用记录）【推荐】
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[EIN](../../../tags/ein.md), [ITIN](../../../tags/itin.md), [信用卡](../../../tags/信用卡.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/2564.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

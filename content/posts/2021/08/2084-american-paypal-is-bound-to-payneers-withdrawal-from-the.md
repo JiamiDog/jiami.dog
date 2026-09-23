@@ -152,3 +152,13 @@ Paypal支付的优势:
 3. 账户关联限制。如果一个账户有不良记录没有消除，您在同一套环境(电脑、网络、ip)申请新的号码会被视为关联。
 4. 转账信息核对。转账时，一定要仔细核对好对方信息，如果出错了，Paypal是不会负责任的。想顺利追回，比登天还难。
 5. 不太友好的客服体系。这是广大网友诟病最多的地方，客服体验确实很差。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[payoneer](../../../tags/payoneer.md), [PayPal](../../../tags/paypal.md), [美国paypal](../../../tags/美国paypal.md)
+- [在官网参与本文评论](https://jiami.dog/2084.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

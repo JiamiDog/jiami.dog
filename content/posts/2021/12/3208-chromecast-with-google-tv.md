@@ -83,3 +83,13 @@ tags:
 ## 值不值得买
 
 如果你平时使用更多的是 Google 系的产品，那么这款 Google Chromcast with Google TV 无疑很适合你。单论产品性价比来说它没现在打折卖 30 刀的 Fire TV 4k 划算。Google Chromcast with Google TV 有支持中文、USB C、Google 账户等优势，但 Fire TV 已经支持了 Apple TV 兼容和系统稳定性更占优势打折，售价也更便宜。如果未来 Google 能更新下系统修正这些问题，我才会真正推荐大家选购 Google Chromcast with Google TV 这款产品。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[netflix](../../../tags/netflix.md)
+- [在官网参与本文评论](https://jiami.dog/3208.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

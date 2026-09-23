@@ -487,3 +487,13 @@ locate *.ps 寻找以 '.ps' 结尾的文件 - 先运行 'updatedb' 命令
 whereis halt 显示一个二进制文件、源码或man的位置
 which halt 显示一个二进制文件或可执行文件的完整路径
 ```
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Linux](../../../tags/linux.md), [vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/2736.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

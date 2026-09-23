@@ -240,3 +240,13 @@ OK，到这你就拥有了一个永久的GV号了。
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/11/1636990775-20211115233847-2.png?resize=817%2C422&ssl=1)
 
 GV可以在手机和网页端同时使用，手机端直接在谷歌商店下载gv软件即可。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[Google Voice](../../../tags/google-voice.md), [谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/2861.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

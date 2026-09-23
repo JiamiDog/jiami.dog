@@ -65,3 +65,13 @@ CN2 GT是电信CN2产品线中的global transit的产品，CN2 GT到中国国际
 CN2 GIA
 
 CN2 GT（普通说的CN2线路基本都是这个）
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[gia](../../../tags/gia.md), [电信](../../../tags/电信.md)
+- [在官网参与本文评论](https://jiami.dog/2960.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

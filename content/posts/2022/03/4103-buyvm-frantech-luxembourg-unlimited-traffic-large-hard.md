@@ -100,3 +100,13 @@ VPS 特征：AMD Ryzen 9 3900X 高性能处理器，NVMe 超高速固态硬盘�
 ## 相关推荐
 
 《[国外便宜高性价比和免费VPS 推荐](https://jiami.dog/4063.html)》
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/4103.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -471,3 +471,13 @@ advertcn.com公开后才2天，风云突变，COOL说他也退出论坛。于是
 顺便说一下，來生瞳，也是个计算机出身的女孩子，很认真负责。
 
 最后，关于论坛，在慢慢改造，我心里大致已有个蓝图，我不会过早显露自己的战略意图。正如我过去在某些场合所说过的，这将是艰辛而漫长的过程，失败，成功或停滞都很正常。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[AdSense](../../../tags/adsense.md)
+- [在官网参与本文评论](https://jiami.dog/5077.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

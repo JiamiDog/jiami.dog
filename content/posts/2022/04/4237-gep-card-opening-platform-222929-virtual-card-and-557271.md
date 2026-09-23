@@ -152,3 +152,13 @@ GEP 鹏卡账户开户免费，开卡数无限制，充值金额无最低要求�
 实名认证后，1~2个工作日完成香港账户开通，在概览-账户界面，点击对应币种下的充值，即出现相应的收款银行账号信息，后续充值入对应账户即可（人民币充值渠道暂未上线），支持未使用完成余额。
 
 ![鹏卡虚拟信用卡平台充值步骤](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/04/ad9af56efd820b7e49691e9723d857a5.png?ssl=1 "GEP 鹏卡，222929,557271,438357,493193虚拟信用卡 6") ![鹏卡虚拟信用卡平台充值账户](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/04/dc60d54e069fb4e8359a42aa9f102455.png?ssl=1 "GEP 鹏卡，222929,557271,438357,493193虚拟信用卡 7")
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[wise](../../../tags/wise.md)
+- [在官网参与本文评论](https://jiami.dog/4237.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

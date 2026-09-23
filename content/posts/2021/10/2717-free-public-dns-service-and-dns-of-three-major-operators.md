@@ -129,3 +129,13 @@ tags:
 | 北方联通 | 115.28.40.136 | – |
 | 香港 | 111.68.8.179 | – |
 | 国外 | 182.16.230.98 | – |
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[dns](../../../tags/dns.md), [ipv6](../../../tags/ipv6.md), [运营商](../../../tags/运营商.md)
+- [在官网参与本文评论](https://jiami.dog/2717.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

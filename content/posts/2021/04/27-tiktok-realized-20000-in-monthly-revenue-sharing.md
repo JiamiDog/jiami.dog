@@ -176,3 +176,13 @@ TK养号
 剩下2分可能会有一些别的因素，比如美国手机号，身份等，我觉得这就是一个流程，你必须从拿到手机开始把每个细节做好，这样以后就不会出现问题。
 
 6. 随着深入TIKTOK，我觉得关于TIKTOK真的有很多很多玩法，每个玩法都有很好的钱途，毕竟TK的巨额流量实在太香一些，我其实挺喜欢去研究各种各样的新奇玩法，以后挣钱了在来分享，大家想听什么也可以告诉我，知无不言，执行力是基础，还要有发现和思考的能力，来了生财看了很多分享，又有了新的感悟和方向。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[TIKTOK](../../../tags/tiktok.md), [基金收益](../../../tags/基金收益.md)
+- [在官网参与本文评论](https://jiami.dog/27.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

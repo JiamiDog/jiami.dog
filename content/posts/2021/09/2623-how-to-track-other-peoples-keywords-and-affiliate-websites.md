@@ -387,3 +387,13 @@ KnifeUser.com 获取流量最多的页面每月收到5,703的搜索流量。
 前期开始，别设立太高的金钱目标，或者干脆不设立这个，而是文章数量、网站流量等目标，毕竟，有流量了，钱根本不是问题。
 
 期待您能成功上岸！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[联盟营销](../../../tags/联盟营销.md)
+- [在官网参与本文评论](https://jiami.dog/2623.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

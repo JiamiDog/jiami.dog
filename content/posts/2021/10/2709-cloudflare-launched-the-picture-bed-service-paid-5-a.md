@@ -42,3 +42,13 @@ Cloudflare，新推出了付费[图床](https://jiami.dog/tag/image-hosting "图
 [![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/10/1633345382-20211004190025-1.webp?resize=473%2C1024&ssl=1)](https://imagedelivery.net/FUDHqimjrVsf6OD2QMZTXw/cf3f3770-eb35-4bcf-130e-dc06d7a24900/public)
 
 图片打开地址：<https://imagedelivery.net/FUDHqimjrVsf6OD2QMZTXw/cf3f3770-eb35-4bcf-130e-dc06d7a24900/public>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[cloudflare](../../../tags/cloudflare.md), [图床](../../../tags/图床.md)
+- [在官网参与本文评论](https://jiami.dog/2709.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

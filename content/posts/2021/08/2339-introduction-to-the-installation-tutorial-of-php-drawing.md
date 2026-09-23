@@ -94,3 +94,13 @@ try_files $uri $uri/ /index.php?$query_string;
 安装后默认的全局后台位置是你的域名/dashboard/bulk
 
 没一个账户也都可以进行一些自动已设置，根据自己喜好设置即可。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[nginx](../../../tags/nginx.md), [php](../../../tags/php.md)
+- [在官网参与本文评论](https://jiami.dog/2339.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

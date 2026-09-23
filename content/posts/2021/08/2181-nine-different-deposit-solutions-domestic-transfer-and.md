@@ -351,3 +351,13 @@ FDIC对每家被保险银行每个存款人的每个账户所有权类別的保�
 我的部分评价正如本文开头所说的那样。但是也补充一点，如果确实有收款要求、或者担保信用卡需求，可以开。如果只是闲的蛋疼，想体验下美卡是何感觉，不建议开。
 
 另外，手续费确实很坑爹，没办法，在别人家的地盘要守规矩。我估计Velo银行的华人老板深谙中国用户的心理，所以把马老师的那套”闪电五连鞭”套路玩的炉火纯青。最后，广大的散户只能嗟叹：”我没闪，我大意了“。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[PayPal](../../../tags/paypal.md), [Velo](../../../tags/velo.md), [信用卡](../../../tags/信用卡.md), [华美银行](../../../tags/华美银行.md), [美国paypal](../../../tags/美国paypal.md), [美国银行](../../../tags/美国银行.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2181.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

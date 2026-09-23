@@ -219,3 +219,13 @@ async function device_status(user_agent_info) {
     return flag;
 }
 ```
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[cloudflare](../../../tags/cloudflare.md)
+- [在官网参与本文评论](https://jiami.dog/2715.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

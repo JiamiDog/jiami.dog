@@ -279,3 +279,13 @@ yandex.money 哪国手机号都可接码，虚拟身份认证一下即可
 需要有一个有流利的博客才可申请，然后博客首页放上他们的广告即可白嫖
 
 <https://evolution-host.com/free-vps.php>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/3848.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

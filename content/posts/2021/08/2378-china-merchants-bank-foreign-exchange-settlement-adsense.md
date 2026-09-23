@@ -90,3 +90,13 @@ PIN码接收
 ## 结汇
 
 当你收到了外汇的时候，手机会给你发短信的，然后你点击招行app界面首页的——外汇购汇，上方选择结汇，点击美元，卖出货币选择美元现汇，下一行的可结汇余额就显示你账号里面的美元数量了，然后输入结汇金额，点击结汇，人民币就到你的银行卡了啦。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[AdSense](../../../tags/adsense.md), [西联汇款](../../../tags/西联汇款.md)
+- [在官网参与本文评论](https://jiami.dog/2378.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

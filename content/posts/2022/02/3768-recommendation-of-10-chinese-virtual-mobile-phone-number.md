@@ -227,3 +227,13 @@ Free SMS免费接码平台提供美国号码、中国大陆号码和香港号码
 **云际云短信**验证码接受平台是全球唯一一家接入了所有美国电信服务商的平台，提供的美国号段丰富，响应速度在30s以内，本平台仅受美国法律保护，切勿将其用于非法途径
 
 本平台提供免费的中国号段和美国号段号码，由于使用人数众多，可能会有部分延迟，请耐心等待。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[接码平台](../../../tags/接码平台.md), [短信验证码](../../../tags/短信验证码.md)
+- [在官网参与本文评论](https://jiami.dog/3768.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

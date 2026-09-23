@@ -78,3 +78,13 @@ EIN，英文EMPLOYER IDENTIFICATION NUMBER，中文联邦税号，也叫雇主�
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/06/1622714846-image-2-1.png?resize=600%2C276&ssl=1)
 
 建议大家晚上时间去代办EIN，这样一定两小时内可以办理下来。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[EIN](../../../tags/ein.md), [亚马逊](../../../tags/亚马逊.md), [卖家](../../../tags/卖家.md), [卖家成长](../../../tags/卖家成长.md), [注册美国公司](../../../tags/注册美国公司.md)
+- [在官网参与本文评论](https://jiami.dog/86.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

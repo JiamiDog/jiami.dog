@@ -30,3 +30,13 @@ tags:
 3) Velo Bank，华美银行旗下的产品。以前是通过必贝证券的邀请连接才能开华美账户，现在这个限制已经放开了，[可以直接下载 Velo bank 的 App 直接手机开户](https://jiami.dog/2564.html)，[只需要身份证或者护照拍照上传即可](https://jiami.dog/2687.html)，几分钟后账户即可开通。华美银行是标准的美国银行，受FDIC保险保护。
 
 4) HSBC Premier， HSBC 有个服务是是global banking， HSBC有一个Premier账户即可开设其他国家的账户。目前HSBC CN 的要求最低，是50W RMB， 香港是100W HKD，美国是$75K USD，只需要在一国达标，就可以免费开其他国家的HSBC Premier账户(有的国家需要签证)。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[汇丰银行](../../../tags/汇丰银行.md), [美国银行](../../../tags/美国银行.md)
+- [在官网参与本文评论](https://jiami.dog/21.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

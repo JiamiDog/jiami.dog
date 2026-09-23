@@ -93,3 +93,13 @@ tags:
 - 提款US$812.3, **Paypal** 到 **国内银行账户** 手续费率 为 **$35/笔，国内银行收费参考价$10-12，**我们按照$10计算，剩余$767.3
 
 **收款总成本为$82.7, 约 ¥568.5，大约是Payoneer收款成本的8倍多。**
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[payoneer](../../../tags/payoneer.md)
+- [在官网参与本文评论](https://jiami.dog/2146.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

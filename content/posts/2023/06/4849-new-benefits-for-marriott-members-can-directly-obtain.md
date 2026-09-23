@@ -60,3 +60,13 @@ National Executive Elite是他们的顶级租车会员，非常容易获得：
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2023/06/1687594581-20230624161538.png?resize=1583%2C1310&ssl=1)
 
 关于海外租车，我只用过赫兹跟EnterPrise，前者基本上覆盖了全球，后者长租以及我以前加拿大住的地方取车方便，最关键后者你的驾龄越高，价格越便宜。国外的租车公司跟国内完全不一样，基本上都是新车或者准新车租用，以及品质都比较高，都是国内的B级车以上，而且车内非常干净。关于租车公司的顶级会员有什么好处？我个人觉得就是取车节约时间，再就是一堆车你随便选择，像我这种法拉利车主，还有什么车我会觉得有感觉呢？
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[万豪](../../../tags/万豪.md), [赫兹租车](../../../tags/赫兹租车.md)
+- [在官网参与本文评论](https://jiami.dog/4849.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

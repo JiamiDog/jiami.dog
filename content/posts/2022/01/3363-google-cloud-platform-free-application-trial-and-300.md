@@ -180,3 +180,13 @@ passwd root
 ### 十、到此我们的300美金就全部到账设置完成了
 
 ![谷歌云 | 重新获取谷歌云300美金免费一年的方法 – Vedio Talk - VLOG、科技、生活、乐分享](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/g20.png?ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[谷歌](../../../tags/谷歌.md)
+- [在官网参与本文评论](https://jiami.dog/3363.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -171,3 +171,13 @@ PHP版本选择你安装的PHP版本，我安装的是PHP7.2，建议安装版�
 ---
 
 搭建一个网站的步骤还是挺多的，好在有这么多好用的工具来帮助我们建站，除了安装宝塔面板，没有输入一行命令就这么快速地搭建一个网站，真是太赞了。在此过程中要有足够的耐心，看起来容易，但是做起来，还是挺费时间的，希望各位胆大心细，出现问题不要惊慌，检查步骤即可，最坏情况删掉重新再来也不是麻烦事。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[wordpress](../../../tags/wordpress.md), [wordpress建站](../../../tags/wordpress建站.md), [域名](../../../tags/域名.md), [数据库](../../../tags/数据库.md), [数码](../../../tags/数码.md)
+- [在官网参与本文评论](https://jiami.dog/2965.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -47,3 +47,13 @@ tags:
 拿到公网IP后对有需求的设备进行端口映射，进路由在虚拟服务器中对监控做一个端口映射，但受限于中转服务器的带宽，网速会受影响，具体影响有多大，需要根据你自身带宽查看了。
 
 公网IP的玩法有很多，如何重复利用好申请下来的公网IP地址，请自行发掘。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[公网ip](../../../tags/公网ip.md), [宽带](../../../tags/宽带.md), [电信](../../../tags/电信.md)
+- [在官网参与本文评论](https://jiami.dog/3360.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

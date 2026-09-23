@@ -56,3 +56,13 @@ An “Offer Qualifying Stay”). Maximum of three (3) Bonuses per Member.
 ![杭州温德姆至尊豪廷大酒店协议价格](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/06/1622901301-20210605215431-1.png?resize=1505%2C995&ssl=1)
 
 一般夏天酒店做活动都比较小气，相对来说，这个活动值得大家参加！
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[常旅客](../../../categories/changlvke.md)
+- 主题：[offer](../../../tags/offer.md), [温德姆](../../../tags/温德姆.md)
+- [在官网参与本文评论](https://jiami.dog/1987.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

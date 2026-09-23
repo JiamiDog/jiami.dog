@@ -101,3 +101,13 @@ javascript:
 最后结果是这样
 
 然后按下回车键，接着刷新页面，如果你的代理没问题，就可以正常看到注册页面了。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[ChatGPT](../../../tags/chatgpt.md), [openai](../../../tags/openai.md)
+- [在官网参与本文评论](https://jiami.dog/4427.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

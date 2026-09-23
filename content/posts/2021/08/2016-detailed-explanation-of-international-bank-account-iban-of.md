@@ -236,3 +236,13 @@ IBAN最多由34个字符组成，包括字母、国家识别码、数字校验�
 
 - 加那利群岛 (IC)
 - 休达和梅里亚 (EA)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[境外开户](../../../tags/境外开户.md), [银行业](../../../tags/银行业.md)
+- [在官网参与本文评论](https://jiami.dog/2016.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

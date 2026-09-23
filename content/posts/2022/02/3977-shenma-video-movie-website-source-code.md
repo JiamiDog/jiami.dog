@@ -34,3 +34,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/02/1645958663-20220227184330.png?resize=750%2C398&ssl=1)
 
 [源码](https://jiami.dog/tag/source-code "源码")下载地址:  <https://github.com/respost/ShenMaTv>
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[源码](../../../tags/源码.md)
+- [在官网参与本文评论](https://jiami.dog/3977.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

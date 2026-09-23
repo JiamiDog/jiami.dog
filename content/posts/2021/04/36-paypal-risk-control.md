@@ -114,3 +114,13 @@ b、不要轻易听信买家要求的“高价值低申报”，除非自己很�
 c、一定要在规定的时间内去回复申诉，超时的话无法再申诉！
 
 写在最后：总得来说PayPal在风控级别上比国内支付宝要严很多，我们在避免风控的同时也需要保持足够的警惕，遇到被风控的情况不需要慌，冷静跟买家沟通，如果实在沟通不了再邀请PayPal官方参与协调沟通。并且在PayPal使用过程中IP变动尽量不要太大，关于这些网上都有很详细的资料，这里就不做过多的介绍。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[PayPal](../../../tags/paypal.md), [信用卡](../../../tags/信用卡.md)
+- [在官网参与本文评论](https://jiami.dog/36.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

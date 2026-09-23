@@ -98,3 +98,13 @@ tags:
 - [支付宝/微信都可以开通香港地铁的乘车码](https://jiami.dog/3625.html)。
 - 如果来香港待几天，可以在这边的便利店买一张香港电话卡，33 港币，就可以用 180 天，不知道网上可不可以买。如果不买新卡，可以开通漫游流量包，不过联通的就比较贵，25/天。
 - 在香港推荐用 Google 地图或者百度地图，不要用高德地图，垃圾。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[中行](../../../tags/中行.md)
+- [在官网参与本文评论](https://jiami.dog/4573.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -65,3 +65,13 @@ tags:
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/2022010315490087.jpg?resize=1024%2C584&ssl=1)
 
 补充：velo现在门槛提高了，要求最低入金2500美元才可以开通。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[PayPal](../../../tags/paypal.md), [Velo](../../../tags/velo.md), [华美银行](../../../tags/华美银行.md)
+- [在官网参与本文评论](https://jiami.dog/3299.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

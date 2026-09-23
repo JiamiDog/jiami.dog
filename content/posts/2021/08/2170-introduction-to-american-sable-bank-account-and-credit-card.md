@@ -160,3 +160,13 @@ Sable官方宣称的是开卡三个月后，会首次上传您的信用报告
 5.妥善的保管好Sable每月邮件发给你的statement文件（对账单），将来可以作为你的地址证明。比如涉及到其他银行的开卡，可能会有用。
 
 6.善用聊天工具，和sable官方客服的沟通记录都会通过邮件文本的方式发给你，方便追溯。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[Sable](../../../tags/sable.md), [信用卡](../../../tags/信用卡.md), [美国信用卡](../../../tags/美国信用卡.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2170.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

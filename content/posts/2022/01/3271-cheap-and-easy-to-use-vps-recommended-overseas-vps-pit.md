@@ -80,3 +80,13 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 ![HostWinds换IP](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/Hostwinds-Fix-ISP-Block.png?resize=865%2C317&ssl=1)
 
 购买后点此查看[如何正确设置和优化VPS，以及WordPress建站](https://jiami.dog/2965.html)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[vps](../../../tags/vps.md)
+- [在官网参与本文评论](https://jiami.dog/3271.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

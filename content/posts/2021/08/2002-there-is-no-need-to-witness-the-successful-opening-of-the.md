@@ -238,3 +238,13 @@ inMotion 动感银行不收取手续费，但是汇款过来的银行可能收�
 交易限额默认为20W, 如果需要调高交易限额需要用[信银国际令牌]进行验证
 
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2021/08/jiaoyi_limit.png?resize=1942%2C754&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[中信银行](../../../tags/中信银行.md), [境外开户](../../../tags/境外开户.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2002.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

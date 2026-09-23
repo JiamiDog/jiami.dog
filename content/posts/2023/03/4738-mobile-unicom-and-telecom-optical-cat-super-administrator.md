@@ -55,3 +55,13 @@ tags:
 ## **最后说明**
 
 [移动、联通、电信三大运营商默认初始超级密码一般情况下是通用的](https://jiami.dog/3360.html)，但比较旧的光猫可能有些不一样，如果无法通过以上的光猫超级管理员账号密码登录，可以通过拨打运营商的客服电话获取，或者通过破解的方法进行。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[中国联通](../../../tags/中国联通.md), [电信](../../../tags/电信.md), [运营商](../../../tags/运营商.md)
+- [在官网参与本文评论](https://jiami.dog/4738.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

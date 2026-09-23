@@ -94,3 +94,13 @@ rewrite ^/([\w-]+\+?)/?$ /yourls-loader.php?id=$1 last;
 
 <http://yourdomain/admin/>
 ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/1679091c5a880faf6fb5e6087eb1b2dc.png?resize=600%2C341&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[YOURLS](../../../tags/yourls.md), [宝塔](../../../tags/宝塔.md)
+- [在官网参与本文评论](https://jiami.dog/3453.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -83,3 +83,13 @@ export ANTHROPIC_API_KEY=你的key
 ## 注册入口
 
 直达注册：**[https://openclaw-api.com](https://openclaw-api.com/register?aff=BMTXSWJ5)**
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：无
+- [在官网参与本文评论](https://jiami.dog/4934.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

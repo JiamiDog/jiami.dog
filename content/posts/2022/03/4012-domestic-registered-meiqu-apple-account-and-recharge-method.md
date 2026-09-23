@@ -137,3 +137,13 @@ https://www.apple.com/shop/buy-giftcard/giftcard
 建议别把美区Apple ID当成主力账号，还是要以国区ID为主，需要下美区应用时登录就行了，以免出现意外造成不必要的麻烦。
 
 付费购买的APP安装后建议别轻易卸载，即使买到黑卡账号被封，已经安装使用的APP也不影响，但卸载后账号被封就没法重新下载了。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[苹果](../../../tags/苹果.md)
+- [在官网参与本文评论](https://jiami.dog/4012.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -252,3 +252,13 @@ tags:
 ```
 
 > ![](https://i0.wp.com/jiami.dog/wp-content/uploads/2022/01/0d44b65aa1c52e71efc34183b9b5c7c0.jpg?w=1311&ssl=1)
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：[AdSense](../../../tags/adsense.md), [w\-8ben](../../../tags/w-8ben.md)
+- [在官网参与本文评论](https://jiami.dog/3652.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

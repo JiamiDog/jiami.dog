@@ -104,3 +104,13 @@ Airwallex Airwallex 是一家致力于打造全球跨境支付一体化平台的
 **14. 美国或者欧洲离岸公司账户**
 
 卖家通过在美国或者欧洲开设离岸公司/离岸公司银行账户，接收海外买家的汇款，再从海外账户汇往大陆账户。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[pingpong](../../../tags/pingpong.md), [pingpong收款](../../../tags/pingpong收款.md), [电子商务](../../../tags/电子商务.md), [跨境人民币业务](../../../tags/跨境人民币业务.md), [跨境支付](../../../tags/跨境支付.md), [跨境汇款](../../../tags/跨境汇款.md)
+- [在官网参与本文评论](https://jiami.dog/2769.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

@@ -72,3 +72,13 @@ tags:
 5. 此时可以先将卡片添加到电子钱包里
 
 6. 等待实体卡片，进行APP全功能解锁。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[互联网金融](../../../categories/hulianwang-jinrong.md)
+- 主题：[境外开户](../../../tags/境外开户.md), [银行](../../../tags/银行.md)
+- [在官网参与本文评论](https://jiami.dog/2018.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

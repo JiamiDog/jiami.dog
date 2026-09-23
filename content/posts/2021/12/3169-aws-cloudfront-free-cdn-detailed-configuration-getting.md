@@ -204,3 +204,13 @@ CloudFront支持WebSocket功能，但是请不要随意滥用资源。
 ## 四、结语
 
 CloudFront作为全球CDN巨头之一，提供的服务质量也是数一数二的，只是作为云服务厂商相比CloudFlare配置流程显得非常不友好。整体而言与CloudFlare各有优劣，如何选择可以自己权衡。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[资源攻略](../../../categories/ziyuan-gonglue.md)
+- 主题：[aws](../../../tags/aws.md), [cdn](../../../tags/cdn.md), [域名](../../../tags/域名.md), [缓存](../../../tags/缓存.md)
+- [在官网参与本文评论](https://jiami.dog/3169.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)

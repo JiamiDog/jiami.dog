@@ -270,3 +270,13 @@ App 做出来之后分为三个时期。
 由于我在变现上大 App 实操经验不是很丰富，就不展开说了。
 
 总之，相比于国内，对于个人开发者来说，由于市场更陌生、用户接触不容易，所以在 Google Play 做 App 在调研上更难些，而由于 Google 和 Facebook 有比较成熟的广告系统，只要搞明白了系统，在引流推广和变现上因为规范反而容易。最后感谢大家的阅读。
+
+---
+
+## 继续阅读与讨论
+
+- 分类：[赚钱有方](../../../categories/zhuanqian-youfang.md)
+- 主题：无
+- [在官网参与本文评论](https://jiami.dog/3065.html#jiami-giscus-comments)
+- [浏览 GitHub 文章评论区](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
+- [返回全部文章](../../../INDEX.md)
