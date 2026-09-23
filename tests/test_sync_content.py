@@ -24,6 +24,12 @@ from sync_content import (  # noqa: E402
 
 README = """# Test
 
+<!-- AUTO:NAVIGATION:START -->
+
+old navigation
+
+<!-- AUTO:NAVIGATION:END -->
+
 <!-- AUTO:ARTICLES:START -->
 
 old
@@ -188,6 +194,31 @@ class SyncContentTests(unittest.TestCase):
 
         no_featured = normalize_post(wordpress_post(43, "no-featured", featured=False))
         self.assertEqual(no_featured.featured_image_url, "")
+
+    def test_sync_builds_reader_navigation_term_pages_and_discussion_links(self):
+        temporary, root = self.make_repository()
+        self.addCleanup(temporary.cleanup)
+        posts = [wordpress_post(42, "hello-world")]
+
+        result = sync_posts(posts, SourceSnapshot(1, 1, ("42",)), root)
+
+        self.assertEqual(result["mirrored"], 1)
+        readme = (root / "README.md").read_text(encoding="utf-8")
+        self.assertIn("[教程](content/categories/教程.md)", readme)
+        self.assertIn("[Affiliate](content/tags/affiliate.md)", readme)
+
+        category = (root / "content" / "categories" / "教程.md").read_text(encoding="utf-8")
+        tag = (root / "content" / "tags" / "affiliate.md").read_text(encoding="utf-8")
+        self.assertIn("../posts/2026/09/42-hello-world.md", category)
+        self.assertIn("../posts/2026/09/42-hello-world.md", tag)
+
+        article = (root / "content" / "posts" / "2026" / "09" / "42-hello-world.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("../../../categories/教程.md", article)
+        self.assertIn("../../../tags/affiliate.md", article)
+        self.assertIn("https://jiami.dog/42.html#jiami-giscus-comments", article)
+        self.assertIn("/discussions/categories/article-comments", article)
 
     def test_missing_post_is_deleted_only_after_two_complete_snapshots(self):
         temporary, root = self.make_repository()
