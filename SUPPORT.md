@@ -4,9 +4,9 @@ JiamiDog 的 GitHub 仓库用于公开文章镜像、社区讨论和同步故障
 
 ## 请选择入口
 
-- **文章评论**：在 Discussions 的“文章评论”分类中附上文章地址并发表看法。
-- **使用问题**：在 Discussions 的“问答”分类提问；请说明目标、已经尝试的步骤和遇到的结果。
-- **内容纠错或选题建议**：在 Discussions 的“纠错与建议”分类提交。WordPress 是正文权威来源，确认后的修改会先发生在 [jiami.dog](https://jiami.dog/)，再自动同步到仓库。
+- **文章评论**：在 Discussions 的“Article Comments”分类中附上文章地址并发表看法。
+- **使用问题**：在 Discussions 的“Q&A”分类提问；请说明目标、已经尝试的步骤和遇到的结果。
+- **内容纠错或选题建议**：在 Discussions 的“Corrections and Ideas”分类提交。WordPress 是正文权威来源，确认后的修改会先发生在 [jiami.dog](https://jiami.dog/)，再自动同步到仓库。
 - **镜像技术故障**：仅当已发布文章出现漏同步、内容残缺、渲染异常或元数据错误时，使用 Issue 表单。
 - **安全漏洞**：不要公开提交，请遵循 [SECURITY.md](SECURITY.md)。
 
