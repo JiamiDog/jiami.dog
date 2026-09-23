@@ -1,0 +1,75 @@
+name: Community triage
+
+on:
+  workflow_dispatch:
+  issues:
+    types: [opened]
+  discussion:
+    types: [created]
+
+permissions: {}
+
+concurrency:
+  # Serialize the small bot workload so first-use label creation cannot race.
+  group: community-triage-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  initialize-labels:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Check out repository without stored credentials
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Initialize deterministic community labels
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/community/triage.py
+
+  manage-issue:
+    if: github.event_name == 'issues' && github.event.sender.type != 'Bot'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Check out repository without stored credentials
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Run deterministic community triage
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          JIAMIDOG_ARTICLES_PATH: data/articles.json
+        run: python3 scripts/community/triage.py
+
+  manage-discussion:
+    if: github.event_name == 'discussion' && github.event.sender.type != 'Bot'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      discussions: write
+
+    steps:
+      - name: Check out repository without stored credentials
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Run deterministic community triage
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          JIAMIDOG_ARTICLES_PATH: data/articles.json
+        run: python3 scripts/community/triage.py
