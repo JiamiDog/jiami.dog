@@ -8,11 +8,11 @@
 
 <!-- AUTO:NAVIGATION:START -->
 
-当前镜像收录 **184** 篇公开文章。
+当前镜像收录 **185** 篇公开文章。
 
 - **[资源攻略](content/categories/ziyuan-gonglue.md)**（115 篇）— 工具、建站、网络、账号与数字生活实用教程
 - **[互联网金融](content/categories/hulianwang-jinrong.md)**（35 篇）— 海外账户、银行卡、支付与跨境金融经验
-- **[赚钱有方](content/categories/zhuanqian-youfang.md)**（24 篇）— 联盟营销、广告变现、电商与线上业务实践
+- **[赚钱有方](content/categories/zhuanqian-youfang.md)**（25 篇）— 联盟营销、广告变现、电商与线上业务实践
 - **[常旅客](content/categories/changlvke.md)**（11 篇）— 酒店、会籍、积分、出行与旅行权益
 
 **热门主题：** [信用卡](content/tags/信用卡.md) · [PayPal](content/tags/paypal.md) · [美国银行](content/tags/美国银行.md) · [AdSense](content/tags/adsense.md) · [银行](content/tags/银行.md) · [vps](content/tags/vps.md) · [谷歌](content/tags/谷歌.md) · [境外开户](content/tags/境外开户.md) · [wise](content/tags/wise.md) · [域名](content/tags/域名.md) · [甲骨文](content/tags/甲骨文.md) · [Telegram](content/tags/telegram.md) · [wordpress](content/tags/wordpress.md) · [电信](content/tags/电信.md) · [美国paypal](content/tags/美国paypal.md) · [苹果](content/tags/苹果.md) · [运营商](content/tags/运营商.md) · [cdn](content/tags/cdn.md)
@@ -23,8 +23,9 @@
 
 <!-- AUTO:ARTICLES:START -->
 
-已自动镜像 **184** 篇公开文章。
+已自动镜像 **185** 篇公开文章。
 
+- 2026-09-24 [什么是联盟营销？一文带你走进海外美金世界](content/posts/2026/09/5179-what-is-affiliate-marketing.md) · 赚钱有方 · [官网原文](https://jiami.dog/5179.html)
 - 2026-09-23 [长期美国手机号怎么选？2026 年 Tello、Ultra PayGo、Airalo 对比](content/posts/2026/09/5157-long-term-us-phone-number-guide-2026.md) · 资源攻略 · [官网原文](https://jiami.dog/5157.html)
 - 2026-08-05 [我在网赚圈做斑竹的经历](content/posts/2026/08/5077-bandwagonhost-justmysocks-vps-hosting-experience.md) · 资源攻略 · [官网原文](https://jiami.dog/5077.html)
 - 2026-07-30 [OpenClaw API 中转站：官方 1\-3 折用 Claude Opus / GPT，国内直连支付宝充值](content/posts/2026/07/4934-openclaw-api-proxy-cheap-claude-gpt-alipay.md) · 资源攻略 · [官网原文](https://jiami.dog/4934.html)
@@ -34,7 +35,6 @@
 - 2023-06-24 [万豪会员新福利，可以直接获得赫兹租车公司高级会籍](content/posts/2023/06/4849-new-benefits-for-marriott-members-can-directly-obtain.md) · 常旅客 · [官网原文](https://jiami.dog/4849.html)
 - 2023-04-28 [日本网盘！永久45G，速度超快，支持 WebDav 协议的 InfiniCloud](content/posts/2023/04/4832-japanese-netdisk-permanent-45g-ultra-fast-infinicloud.md) · 资源攻略 · [官网原文](https://jiami.dog/4832.html)
 - 2023-04-25 [AdSense，Admob，Google Play开发者使用W9信息免税教程](content/posts/2023/04/4818-adsense-adnob-google-play-developer-use-w9-information.md) · 资源攻略 · [官网原文](https://jiami.dog/4818.html)
-- 2023-04-03 [最近ChatGPT封账号太严重，ChatGPT解封攻略步骤](content/posts/2023/04/4760-recently-chatgpt-account-closure-has-been-too-serious.md) · 资源攻略 · [官网原文](https://jiami.dog/4760.html)
 
 [查看全部文章 →](content/INDEX.md) · [进入评论区 →](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
 

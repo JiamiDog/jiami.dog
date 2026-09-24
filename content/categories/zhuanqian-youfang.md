@@ -4,8 +4,9 @@
 
 联盟营销、广告变现、电商与线上业务实践
 
-共 **24** 篇文章。
+共 **25** 篇文章。
 
+- 2026-09-24 [什么是联盟营销？一文带你走进海外美金世界](../posts/2026/09/5179-what-is-affiliate-marketing.md) · [官网原文](https://jiami.dog/5179.html)
 - 2022-12-08 [人在中国如何申请Google Adsense](../posts/2022/12/4447-how-do-people-apply-for-google-adsense-in-china.md) · [官网原文](https://jiami.dog/4447.html)
 - 2022-04-05 [最新 Paypal拉新教程，方法很简单](../posts/2022/04/4211-the-latest-paypal-pull-new-tutorial-the-method-is-very.md) · [官网原文](https://jiami.dog/4211.html)
 - 2022-04-03 [优化谷歌广告 Google Adsense，提高网站加载速度](../posts/2022/04/4209-optimize-google-ads-and-google-adsense-to-improve-the.md) · [官网原文](https://jiami.dog/4209.html)

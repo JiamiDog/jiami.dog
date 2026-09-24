@@ -1,6 +1,28 @@
 {
-  "article_count": 184,
+  "article_count": 185,
   "articles": [
+    {
+      "categories": [
+        "赚钱有方"
+      ],
+      "content_sha256": "bec38f1165b68e18c4fc0a4bdf6845d3366191eb268d16e795210aa98b7f4c2e",
+      "date_local": "2026-09-24T09:00:00",
+      "date_modified": "2026-09-22T21:21:50Z",
+      "date_published": "2026-09-24T01:00:00Z",
+      "excerpt": "联盟营销是什么？本文用实际算账案例讲清 Affiliate Marketing 的佣金、推广链接、归因规则、CPS、CPL、CPI、持续分成、内容推广和付费投放，并给出普通人的入门步骤。",
+      "featured_image_alt": "联盟营销通过内容和推广链接连接产品、全球用户与佣金结果",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/affiliate-marketing-hero-v1.0.webp",
+      "github_path": "content/posts/2026/09/5179-what-is-affiliate-marketing.md",
+      "slug": "what-is-affiliate-marketing",
+      "source_id": "5179",
+      "source_url": "https://jiami.dog/5179.html",
+      "sync_status": "current",
+      "tags": [
+        "cps",
+        "联盟营销"
+      ],
+      "title": "什么是联盟营销？一文带你走进海外美金世界"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4093,9 +4115,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "6143372a5842605227a7c1f0bcede2908f898a94314dd225cb887cd01b44c7cb",
+  "feed_sha256": "8ff5c98fc8701b3765a6dc25e8aa71d16de02818b5e3b6c7b642642bc7b2b95b",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 184,
+  "source_article_count": 185,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
