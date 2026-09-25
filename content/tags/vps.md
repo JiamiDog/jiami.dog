@@ -2,8 +2,9 @@
 
 [返回仓库首页](../../README.md) · [全部文章](../INDEX.md) · [参与讨论](https://github.com/JiamiDog/jiami.dog/discussions)
 
-共 **8** 篇文章。
+共 **9** 篇文章。
 
+- 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](../posts/2026/09/5188-ai-api-gateway-guide.md) · [官网原文](https://jiami.dog/5188.html)
 - 2022-03-03 [BuyVM\(Frantech\)：卢森堡无限流量大硬盘便宜VPS/抗DCMA版权投诉](../posts/2022/03/4103-buyvm-frantech-luxembourg-unlimited-traffic-large-hard.md) · [官网原文](https://jiami.dog/4103.html)
 - 2022-03-03 [Olink Cloud：美国/德国 CUPM/AS9929/AS10099 免备案建站高速稳定](../posts/2022/03/4099-olink-cloud-cupm-as9929-as10099-usa-germany-record.md) · [官网原文](https://jiami.dog/4099.html)
 - 2022-03-02 [便宜高性价比和免费 VPS 推荐](../posts/2022/03/4063-cheap-cost-effective-and-free-vps-recommendation.md) · [官网原文](https://jiami.dog/4063.html)

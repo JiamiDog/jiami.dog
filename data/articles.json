@@ -1,6 +1,34 @@
 {
-  "article_count": 185,
+  "article_count": 186,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "56ce081446da48598b0aaca7be9b50fdceb75f93f6b420cf794557fdd0b938b3",
+      "date_local": "2026-09-25T09:00:00",
+      "date_modified": "2026-09-24T02:08:14Z",
+      "date_published": "2026-09-25T01:00:00Z",
+      "excerpt": "AI API 中转站是什么、怎么赚钱、哪些模式合规？本文拆解 18 种模式和 8 条技术路线，并用 LiteLLM 演示如何基于官方 API Key 搭建私有网关。",
+      "featured_image_alt": "AI应用通过安全API网关连接多个模型供应商并集中进行鉴权、成本、限流和故障切换",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/ai-api-gateway-hero-v1.0.webp",
+      "github_path": "content/posts/2026/09/5188-ai-api-gateway-guide.md",
+      "slug": "ai-api-gateway-guide",
+      "source_id": "5188",
+      "source_url": "https://jiami.dog/5188.html",
+      "sync_status": "current",
+      "tags": [
+        "AI API",
+        "API中转站",
+        "ChatGPT",
+        "Claude",
+        "docker",
+        "openai",
+        "vps",
+        "教程"
+      ],
+      "title": "AI API 中转站完整指南：18 种模式、8 条路线与自建教程"
+    },
     {
       "categories": [
         "赚钱有方"
@@ -4115,9 +4143,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "8ff5c98fc8701b3765a6dc25e8aa71d16de02818b5e3b6c7b642642bc7b2b95b",
+  "feed_sha256": "891c8f41e60b2acea3ee494c4d4ce423d0db3d07501f169d4be2b66bf5626035",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 185,
+  "source_article_count": 186,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
