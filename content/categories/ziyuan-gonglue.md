@@ -4,8 +4,9 @@
 
 工具、建站、网络、账号与数字生活实用教程
 
-共 **116** 篇文章。
+共 **117** 篇文章。
 
+- 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](../posts/2026/09/5194-google-discovered-currently-not-indexed.md) · [官网原文](https://jiami.dog/5194.html)
 - 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](../posts/2026/09/5188-ai-api-gateway-guide.md) · [官网原文](https://jiami.dog/5188.html)
 - 2026-09-23 [长期美国手机号怎么选？2026 年 Tello、Ultra PayGo、Airalo 对比](../posts/2026/09/5157-long-term-us-phone-number-guide-2026.md) · [官网原文](https://jiami.dog/5157.html)
 - 2026-08-05 [我在网赚圈做斑竹的经历](../posts/2026/08/5077-bandwagonhost-justmysocks-vps-hosting-experience.md) · [官网原文](https://jiami.dog/5077.html)

@@ -1,6 +1,30 @@
 {
-  "article_count": 186,
+  "article_count": 187,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "22f0b5c1d2c4487049b694273aef37cb9115fd3f5ca6055566bf151e39bd4938",
+      "date_local": "2026-09-26T09:00:00",
+      "date_modified": "2026-09-24T23:01:56Z",
+      "date_published": "2026-09-26T01:00:00Z",
+      "excerpt": "Search Console 显示“已发现，尚未编入索引”怎么办？用网址检查、抓取统计、服务器日志、sitemap、内链和内容价值逐步排查，并识别常见伪算法阈值。",
+      "featured_image_alt": "网站管理员排查网页已经被搜索引擎发现但仍在等待抓取和编入索引的问题",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/google-indexing-hero-v1.0.webp",
+      "github_path": "content/posts/2026/09/5194-google-discovered-currently-not-indexed.md",
+      "slug": "google-discovered-currently-not-indexed",
+      "source_id": "5194",
+      "source_url": "https://jiami.dog/5194.html",
+      "sync_status": "current",
+      "tags": [
+        "seo",
+        "搜索引擎",
+        "搜索引擎收录",
+        "谷歌"
+      ],
+      "title": "Google 已发现页面却迟迟不收录？3 步排查与修复指南"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4143,9 +4167,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "891c8f41e60b2acea3ee494c4d4ce423d0db3d07501f169d4be2b66bf5626035",
+  "feed_sha256": "6a3b87ef1dafa551bbe97ea30bd6838c5f285005e6299e6fa58ddfa5c0a94591",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 186,
+  "source_article_count": 187,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }

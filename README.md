@@ -8,9 +8,9 @@
 
 <!-- AUTO:NAVIGATION:START -->
 
-当前镜像收录 **186** 篇公开文章。
+当前镜像收录 **187** 篇公开文章。
 
-- **[资源攻略](content/categories/ziyuan-gonglue.md)**（116 篇）— 工具、建站、网络、账号与数字生活实用教程
+- **[资源攻略](content/categories/ziyuan-gonglue.md)**（117 篇）— 工具、建站、网络、账号与数字生活实用教程
 - **[互联网金融](content/categories/hulianwang-jinrong.md)**（35 篇）— 海外账户、银行卡、支付与跨境金融经验
 - **[赚钱有方](content/categories/zhuanqian-youfang.md)**（25 篇）— 联盟营销、广告变现、电商与线上业务实践
 - **[常旅客](content/categories/changlvke.md)**（11 篇）— 酒店、会籍、积分、出行与旅行权益
@@ -23,8 +23,9 @@
 
 <!-- AUTO:ARTICLES:START -->
 
-已自动镜像 **186** 篇公开文章。
+已自动镜像 **187** 篇公开文章。
 
+- 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](content/posts/2026/09/5194-google-discovered-currently-not-indexed.md) · 资源攻略 · [官网原文](https://jiami.dog/5194.html)
 - 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](content/posts/2026/09/5188-ai-api-gateway-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5188.html)
 - 2026-09-24 [什么是联盟营销？一文带你走进海外美金世界](content/posts/2026/09/5179-what-is-affiliate-marketing.md) · 赚钱有方 · [官网原文](https://jiami.dog/5179.html)
 - 2026-09-23 [长期美国手机号怎么选？2026 年 Tello、Ultra PayGo、Airalo 对比](content/posts/2026/09/5157-long-term-us-phone-number-guide-2026.md) · 资源攻略 · [官网原文](https://jiami.dog/5157.html)
@@ -34,7 +35,6 @@
 - 2023-11-24 [Google Ads 账号类型说明（个人号，企业号，代理号）](content/posts/2023/11/4874-google-ads-account-type-description-personal-number.md) · 资源攻略 · [官网原文](https://jiami.dog/4874.html)
 - 2023-07-06 [my\.id来自印度尼西亚免费域名以及邮箱服务](content/posts/2023/07/4858-my-id-comes-from-indonesias-free-domain-name-and-email.md) · 资源攻略 · [官网原文](https://jiami.dog/4858.html)
 - 2023-06-24 [万豪会员新福利，可以直接获得赫兹租车公司高级会籍](content/posts/2023/06/4849-new-benefits-for-marriott-members-can-directly-obtain.md) · 常旅客 · [官网原文](https://jiami.dog/4849.html)
-- 2023-04-28 [日本网盘！永久45G，速度超快，支持 WebDav 协议的 InfiniCloud](content/posts/2023/04/4832-japanese-netdisk-permanent-45g-ultra-fast-infinicloud.md) · 资源攻略 · [官网原文](https://jiami.dog/4832.html)
 
 [查看全部文章 →](content/INDEX.md) · [进入评论区 →](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
 
