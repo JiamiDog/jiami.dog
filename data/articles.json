@@ -1,6 +1,31 @@
 {
-  "article_count": 187,
+  "article_count": 188,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "c698bd1364f50c751b6a7239c291562d77e31a954e1f312859cd1c44517462bb",
+      "date_local": "2026-09-27T09:55:36",
+      "date_modified": "2026-09-27T01:55:36Z",
+      "date_published": "2026-09-27T01:55:36Z",
+      "excerpt": "不会用 ChatGPT，也可以用 WorkBuddy 协助搭建 Sub2API。本文从主机预算、SSH、域名与 HTTPS 讲起，带你接入上游 API、设置分组和价格、测试用户调用，并检查扣费与备份恢复。",
+      "featured_image_alt": "电脑上的AI助手协助管理自有服务器，由API网关连接多个上游模型服务的概念插画",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/sub2api-workbuddy-hero-20260927.webp",
+      "github_path": "content/posts/2026/09/5201-sub2api-workbuddy-guide.md",
+      "slug": "sub2api-workbuddy-guide",
+      "source_id": "5201",
+      "source_url": "https://jiami.dog/5201.html",
+      "sync_status": "current",
+      "tags": [
+        "AI",
+        "API中转站",
+        "Sub2API",
+        "WorkBuddy",
+        "搬瓦工"
+      ],
+      "title": "不会用 ChatGPT，也能搭 AI 中转站：WorkBuddy + Sub2API 零基础教程"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4167,9 +4192,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "6a3b87ef1dafa551bbe97ea30bd6838c5f285005e6299e6fa58ddfa5c0a94591",
+  "feed_sha256": "70566f8aea3034df93704c35e1b600f1d77bb0f2ea82cda0dd08b919e26e6238",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 187,
+  "source_article_count": 188,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
