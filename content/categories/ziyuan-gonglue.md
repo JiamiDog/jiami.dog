@@ -4,8 +4,9 @@
 
 工具、建站、网络、账号与数字生活实用教程
 
-共 **118** 篇文章。
+共 **119** 篇文章。
 
+- 2026-09-28 [我用 Muse AI 做了一个海外 Deal 主页：PuckDeals MVP 上线记录](../posts/2026/09/5207-muse-ai-puckdeals-start.md) · [官网原文](https://jiami.dog/5207.html)
 - 2026-09-27 [不会用 ChatGPT，也能搭 AI 中转站：WorkBuddy \+ Sub2API 零基础教程](../posts/2026/09/5201-sub2api-workbuddy-guide.md) · [官网原文](https://jiami.dog/5201.html)
 - 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](../posts/2026/09/5194-google-discovered-currently-not-indexed.md) · [官网原文](https://jiami.dog/5194.html)
 - 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](../posts/2026/09/5188-ai-api-gateway-guide.md) · [官网原文](https://jiami.dog/5188.html)

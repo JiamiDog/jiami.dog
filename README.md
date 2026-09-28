@@ -8,9 +8,9 @@
 
 <!-- AUTO:NAVIGATION:START -->
 
-当前镜像收录 **188** 篇公开文章。
+当前镜像收录 **189** 篇公开文章。
 
-- **[资源攻略](content/categories/ziyuan-gonglue.md)**（118 篇）— 工具、建站、网络、账号与数字生活实用教程
+- **[资源攻略](content/categories/ziyuan-gonglue.md)**（119 篇）— 工具、建站、网络、账号与数字生活实用教程
 - **[互联网金融](content/categories/hulianwang-jinrong.md)**（35 篇）— 海外账户、银行卡、支付与跨境金融经验
 - **[赚钱有方](content/categories/zhuanqian-youfang.md)**（25 篇）— 联盟营销、广告变现、电商与线上业务实践
 - **[常旅客](content/categories/changlvke.md)**（11 篇）— 酒店、会籍、积分、出行与旅行权益
@@ -23,8 +23,9 @@
 
 <!-- AUTO:ARTICLES:START -->
 
-已自动镜像 **188** 篇公开文章。
+已自动镜像 **189** 篇公开文章。
 
+- 2026-09-28 [我用 Muse AI 做了一个海外 Deal 主页：PuckDeals MVP 上线记录](content/posts/2026/09/5207-muse-ai-puckdeals-start.md) · 资源攻略 · [官网原文](https://jiami.dog/5207.html)
 - 2026-09-27 [不会用 ChatGPT，也能搭 AI 中转站：WorkBuddy \+ Sub2API 零基础教程](content/posts/2026/09/5201-sub2api-workbuddy-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5201.html)
 - 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](content/posts/2026/09/5194-google-discovered-currently-not-indexed.md) · 资源攻略 · [官网原文](https://jiami.dog/5194.html)
 - 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](content/posts/2026/09/5188-ai-api-gateway-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5188.html)
@@ -34,7 +35,6 @@
 - 2026-07-30 [OpenClaw API 中转站：官方 1\-3 折用 Claude Opus / GPT，国内直连支付宝充值](content/posts/2026/07/4934-openclaw-api-proxy-cheap-claude-gpt-alipay.md) · 资源攻略 · [官网原文](https://jiami.dog/4934.html)
 - 2023-11-24 [ShareASale广告联盟推广者注册指南](content/posts/2023/11/4877-shareasale-advertising-alliance-promoter-registration-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/4877.html)
 - 2023-11-24 [Google Ads 账号类型说明（个人号，企业号，代理号）](content/posts/2023/11/4874-google-ads-account-type-description-personal-number.md) · 资源攻略 · [官网原文](https://jiami.dog/4874.html)
-- 2023-07-06 [my\.id来自印度尼西亚免费域名以及邮箱服务](content/posts/2023/07/4858-my-id-comes-from-indonesias-free-domain-name-and-email.md) · 资源攻略 · [官网原文](https://jiami.dog/4858.html)
 
 [查看全部文章 →](content/INDEX.md) · [进入评论区 →](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
 

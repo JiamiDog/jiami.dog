@@ -1,6 +1,30 @@
 {
-  "article_count": 188,
+  "article_count": 189,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "cc8257eb1ebc5810e8b5581ba1fb65fa6032820d61c41054510b47658b6e38ff",
+      "date_local": "2026-09-28T10:31:36",
+      "date_modified": "2026-09-28T02:31:36Z",
+      "date_published": "2026-09-28T02:31:36Z",
+      "excerpt": "Muse AI 能做海外项目吗？我用 PuckDeals 跑出第一个 Facebook Deal 主页 MVP，记录真实上线过程、优惠核价、联盟链接归因与后续流量验证，并分享邀请码 WZNBFY。",
+      "featured_image_alt": "人工审核科技产品优惠的 AI 云端工作场景概念插画，展示商家来源、价格核查和发布前检查",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/muse-ai-puckdeals-hero-v1.0-2026-09-27.webp",
+      "github_path": "content/posts/2026/09/5207-muse-ai-puckdeals-start.md",
+      "slug": "muse-ai-puckdeals-start",
+      "source_id": "5207",
+      "source_url": "https://jiami.dog/5207.html",
+      "sync_status": "current",
+      "tags": [
+        "AI智能体",
+        "Facebook",
+        "Muse AI",
+        "联盟营销"
+      ],
+      "title": "我用 Muse AI 做了一个海外 Deal 主页：PuckDeals MVP 上线记录"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4192,9 +4216,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "70566f8aea3034df93704c35e1b600f1d77bb0f2ea82cda0dd08b919e26e6238",
+  "feed_sha256": "964eee66fb71a4af7b06675f7d987e200738b274750d9e40727f3e90be03eb02",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 188,
+  "source_article_count": 189,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
