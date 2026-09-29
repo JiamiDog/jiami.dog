@@ -1,6 +1,55 @@
 {
-  "article_count": 189,
+  "article_count": 191,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "98d3db3351a5721a7bc03c866c7f4fa17f681ed58606dc46d49ad9149c4cbf27",
+      "date_local": "2026-09-28T23:11:08",
+      "date_modified": "2026-09-28T15:11:08Z",
+      "date_published": "2026-09-28T15:11:08Z",
+      "excerpt": "腾讯轻量云团队出品的 LightVela 托管 Hermes Agent。面向国内新手，从开通和微信、QQ 接入，到 CodeGo GPT、APIKEY Claude 自定义模型配置，讲清协议、费用、地区限制与真实任务验收。",
+      "featured_image_alt": "LightVela 通道配置页，展示微信、QQ、企业微信、钉钉和飞书，QQ 已连接",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/lightvela-channels-v1.0-2026-09-28.png",
+      "github_path": "content/posts/2026/09/5217-lightvela-tencent-hermes-beginner-guide.md",
+      "slug": "lightvela-tencent-hermes-beginner-guide",
+      "source_id": "5217",
+      "source_url": "https://jiami.dog/5217.html",
+      "sync_status": "current",
+      "tags": [
+        "AI智能体",
+        "Hermes Agent",
+        "LightVela",
+        "新手教程",
+        "腾讯轻量云"
+      ],
+      "title": "腾讯出品 LightVela 新手教程：在微信、QQ 里用自己的云端智能体"
+    },
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "51295e10ddfcae0ccf3c8c13868862d5c90ccd8e625e5466dc4ab0483ae6e56a",
+      "date_local": "2026-09-28T23:11:08",
+      "date_modified": "2026-09-28T15:11:08Z",
+      "date_published": "2026-09-28T15:11:08Z",
+      "excerpt": "不把 Muse 当无限制 VPS。按五步检查环境、手动生成模拟数据报告、设置官方定时、制作看板，再用本次 run_id、日志和 CSV 验收；附可复制 I-Lang 任务卡与官方演示。",
+      "featured_image_alt": "Muse 每日报告四步流程示意：先手动跑通，再使用官方定时功能，核对每次的新日志与报告，失败时记录原因并提醒。",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/muse-vm-report-hero-v1.0-2026-09-28.webp",
+      "github_path": "content/posts/2026/09/5214-muse-virtual-computer-daily-report.md",
+      "slug": "muse-virtual-computer-daily-report",
+      "source_id": "5214",
+      "source_url": "https://jiami.dog/5214.html",
+      "sync_status": "current",
+      "tags": [
+        "AI智能体",
+        "Muse AI",
+        "数据处理",
+        "自动化"
+      ],
+      "title": "Muse 虚拟电脑：5 步交出每日数据报告"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4216,9 +4265,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "964eee66fb71a4af7b06675f7d987e200738b274750d9e40727f3e90be03eb02",
+  "feed_sha256": "2fdb605741e2de389563b387cde1e039e0dbfec6386a6a16250b846d0aa90f43",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 189,
+  "source_article_count": 191,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }

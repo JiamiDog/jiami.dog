@@ -4,8 +4,10 @@
 
 工具、建站、网络、账号与数字生活实用教程
 
-共 **119** 篇文章。
+共 **121** 篇文章。
 
+- 2026-09-28 [腾讯出品 LightVela 新手教程：在微信、QQ 里用自己的云端智能体](../posts/2026/09/5217-lightvela-tencent-hermes-beginner-guide.md) · [官网原文](https://jiami.dog/5217.html)
+- 2026-09-28 [Muse 虚拟电脑：5 步交出每日数据报告](../posts/2026/09/5214-muse-virtual-computer-daily-report.md) · [官网原文](https://jiami.dog/5214.html)
 - 2026-09-28 [我用 Muse AI 做了一个海外 Deal 主页：PuckDeals MVP 上线记录](../posts/2026/09/5207-muse-ai-puckdeals-start.md) · [官网原文](https://jiami.dog/5207.html)
 - 2026-09-27 [不会用 ChatGPT，也能搭 AI 中转站：WorkBuddy \+ Sub2API 零基础教程](../posts/2026/09/5201-sub2api-workbuddy-guide.md) · [官网原文](https://jiami.dog/5201.html)
 - 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](../posts/2026/09/5194-google-discovered-currently-not-indexed.md) · [官网原文](https://jiami.dog/5194.html)
