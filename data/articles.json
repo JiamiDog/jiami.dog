@@ -1,6 +1,29 @@
 {
-  "article_count": 191,
+  "article_count": 192,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "2f25457647f6088a64ba3c918ab41e7e37a7ee4cfe29b4cef3b8aba3b6610e9d",
+      "date_local": "2026-09-30T22:23:16",
+      "date_modified": "2026-09-30T14:23:16Z",
+      "date_published": "2026-09-30T14:23:16Z",
+      "excerpt": "从一条 Claude 代码视频的制作流程出发，拆解 AI 提示词怎么写：先说清目标、输入与边界，做小样再完整交付，并用真实证据验收。附产品视频、教程写作、网站故障三个例子和可改写的 I-Lang 任务卡。",
+      "featured_image_alt": "从零散想法到目标、素材、方案预览与验收结果的提示词工程流程原创插画",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/09/prompt-engineering-cover-v1-20260930.png",
+      "github_path": "content/posts/2026/09/5238-prompt-engineering-task-brief-not-magic.md",
+      "slug": "prompt-engineering-task-brief-not-magic",
+      "source_id": "5238",
+      "source_url": "https://jiami.dog/5238.html",
+      "sync_status": "current",
+      "tags": [
+        "AI工作流",
+        "I-Lang",
+        "提示词工程"
+      ],
+      "title": "提示词工程不是背咒语：从一条 AI 视频，学会给 AI 下任务"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4265,9 +4288,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "2fdb605741e2de389563b387cde1e039e0dbfec6386a6a16250b846d0aa90f43",
+  "feed_sha256": "baae13956b8fb478642966cca24709c53e0ae76dadb771ef3544e79f070cec6a",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 191,
+  "source_article_count": 192,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
