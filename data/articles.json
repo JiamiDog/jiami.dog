@@ -1,6 +1,30 @@
 {
-  "article_count": 192,
+  "article_count": 193,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "abb2d3f31e616ad4e56db8045c8338508b9a7c987071b6678eb0e04359adf1e3",
+      "date_local": "2026-10-09T01:59:24",
+      "date_modified": "2026-10-08T18:11:51Z",
+      "date_published": "2026-10-08T17:59:24Z",
+      "excerpt": "用护照办理新加坡 StarHub eSIM，无需 Singpass。了解漫游上网和热点用途、29 元 15GB 方案，以及购买、实名、安装和联网设置。",
+      "featured_image_alt": "StarHub eSIM 从选方案、护照实名、安装到检查联网的四步原创流程图",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/10/starhub-esim-guide-v1-20261008.webp",
+      "github_path": "content/posts/2026/10/5263-starhub-esim-kkday-activation-guide.md",
+      "slug": "starhub-esim-kkday-activation-guide",
+      "source_id": "5263",
+      "source_url": "https://jiami.dog/5263.html",
+      "sync_status": "current",
+      "tags": [
+        "eSIM",
+        "StarHub",
+        "数据漫游",
+        "新加坡"
+      ],
+      "title": "新加坡 StarHub eSIM：护照实名开通漫游上网，无需 Singpass"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4288,9 +4312,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "baae13956b8fb478642966cca24709c53e0ae76dadb771ef3544e79f070cec6a",
+  "feed_sha256": "facb13e4f1f04d1804cd272352b34a0d274e447b4c37d01df023496c6a05f6d6",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 192,
+  "source_article_count": 193,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
