@@ -2,11 +2,11 @@
 
 [返回仓库首页](../README.md) · [访问 jiami.dog 官网](https://jiami.dog/) · [参与讨论](https://github.com/JiamiDog/jiami.dog/discussions)
 
-这里收录从 jiami.dog 同步的 **193** 篇公开文章；官网版本始终是权威原文。
+这里收录从 jiami.dog 同步的 **194** 篇公开文章；官网版本始终是权威原文。
 
 ## 按分类浏览
 
-- [资源攻略](categories/ziyuan-gonglue.md)（123 篇）
+- [资源攻略](categories/ziyuan-gonglue.md)（124 篇）
 - [互联网金融](categories/hulianwang-jinrong.md)（35 篇）
 - [赚钱有方](categories/zhuanqian-youfang.md)（25 篇）
 - [常旅客](categories/changlvke.md)（11 篇）
@@ -19,6 +19,7 @@
 
 ## 2026
 
+- 2026-10-20 [Google AI Pro 学生优惠领取指南：5TB 空间与 YouTube Premium 怎么选](posts/2026/10/5276-google-ai-pro-youtube-student-guide.md) · [官网原文](https://jiami.dog/5276.html)
 - 2026-10-09 [新加坡 StarHub eSIM：护照实名开通漫游上网，无需 Singpass](posts/2026/10/5263-starhub-esim-kkday-activation-guide.md) · [官网原文](https://jiami.dog/5263.html)
 - 2026-09-30 [提示词工程不是背咒语：从一条 AI 视频，学会给 AI 下任务](posts/2026/09/5238-prompt-engineering-task-brief-not-magic.md) · [官网原文](https://jiami.dog/5238.html)
 - 2026-09-28 [腾讯出品 LightVela 新手教程：在微信、QQ 里用自己的云端智能体](posts/2026/09/5217-lightvela-tencent-hermes-beginner-guide.md) · [官网原文](https://jiami.dog/5217.html)

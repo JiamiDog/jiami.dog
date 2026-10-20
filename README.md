@@ -8,9 +8,9 @@
 
 <!-- AUTO:NAVIGATION:START -->
 
-当前镜像收录 **193** 篇公开文章。
+当前镜像收录 **194** 篇公开文章。
 
-- **[资源攻略](content/categories/ziyuan-gonglue.md)**（123 篇）— 工具、建站、网络、账号与数字生活实用教程
+- **[资源攻略](content/categories/ziyuan-gonglue.md)**（124 篇）— 工具、建站、网络、账号与数字生活实用教程
 - **[互联网金融](content/categories/hulianwang-jinrong.md)**（35 篇）— 海外账户、银行卡、支付与跨境金融经验
 - **[赚钱有方](content/categories/zhuanqian-youfang.md)**（25 篇）— 联盟营销、广告变现、电商与线上业务实践
 - **[常旅客](content/categories/changlvke.md)**（11 篇）— 酒店、会籍、积分、出行与旅行权益
@@ -23,8 +23,9 @@
 
 <!-- AUTO:ARTICLES:START -->
 
-已自动镜像 **193** 篇公开文章。
+已自动镜像 **194** 篇公开文章。
 
+- 2026-10-20 [Google AI Pro 学生优惠领取指南：5TB 空间与 YouTube Premium 怎么选](content/posts/2026/10/5276-google-ai-pro-youtube-student-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5276.html)
 - 2026-10-09 [新加坡 StarHub eSIM：护照实名开通漫游上网，无需 Singpass](content/posts/2026/10/5263-starhub-esim-kkday-activation-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5263.html)
 - 2026-09-30 [提示词工程不是背咒语：从一条 AI 视频，学会给 AI 下任务](content/posts/2026/09/5238-prompt-engineering-task-brief-not-magic.md) · 资源攻略 · [官网原文](https://jiami.dog/5238.html)
 - 2026-09-28 [腾讯出品 LightVela 新手教程：在微信、QQ 里用自己的云端智能体](content/posts/2026/09/5217-lightvela-tencent-hermes-beginner-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5217.html)
@@ -34,7 +35,6 @@
 - 2026-09-26 [Google 已发现页面却迟迟不收录？3 步排查与修复指南](content/posts/2026/09/5194-google-discovered-currently-not-indexed.md) · 资源攻略 · [官网原文](https://jiami.dog/5194.html)
 - 2026-09-25 [AI API 中转站完整指南：18 种模式、8 条路线与自建教程](content/posts/2026/09/5188-ai-api-gateway-guide.md) · 资源攻略 · [官网原文](https://jiami.dog/5188.html)
 - 2026-09-24 [什么是联盟营销？一文带你走进海外美金世界](content/posts/2026/09/5179-what-is-affiliate-marketing.md) · 赚钱有方 · [官网原文](https://jiami.dog/5179.html)
-- 2026-09-23 [长期美国手机号怎么选？2026 年 Tello、Ultra PayGo、Airalo 对比](content/posts/2026/09/5157-long-term-us-phone-number-guide-2026.md) · 资源攻略 · [官网原文](https://jiami.dog/5157.html)
 
 [查看全部文章 →](content/INDEX.md) · [进入评论区 →](https://github.com/JiamiDog/jiami.dog/discussions/categories/article-comments)
 

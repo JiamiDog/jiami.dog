@@ -1,6 +1,6 @@
 {
   "endpoint": "https://jiami.dog/wp-json/wp/v2/posts",
-  "last_complete_ids_sha256": "b13ff735bf365e1a62cf6864165a20bfbf1a2b2398e0caf2ee9a234a6086e22e",
+  "last_complete_ids_sha256": "05fce67637b3f0aab74b9edf8286431f1b2a34c9b8d65e1b937d5daca807bb51",
   "last_complete_source_ids": [
     "21",
     "23",
@@ -194,9 +194,10 @@
     "5214",
     "5217",
     "5238",
-    "5263"
+    "5263",
+    "5276"
   ],
-  "last_complete_total": 193,
+  "last_complete_total": 194,
   "last_complete_total_pages": 2,
   "schema_version": "1.0"
 }

@@ -1,6 +1,30 @@
 {
-  "article_count": 193,
+  "article_count": 194,
   "articles": [
+    {
+      "categories": [
+        "资源攻略"
+      ],
+      "content_sha256": "d4f676313b1ad62c31e750d681292d1a68e6a7c476437584201f338ebd67a782",
+      "date_local": "2026-10-20T06:52:06",
+      "date_modified": "2026-10-19T22:52:06Z",
+      "date_published": "2026-10-19T22:52:06Z",
+      "excerpt": "分清 Google AI Pro 免费学生试用与 YouTube Premium 付费组合，按步骤完成资格验证、核对 8.99 美元月费及续订日期，避免升级后丢失原优惠或重复付费。",
+      "featured_image_alt": "Google 学生优惠原创插画：AI Pro、YouTube Premium 与 5TB 云存储三项用途",
+      "featured_image_url": "https://jiami.dog/wp-content/uploads/2026/10/google-ai-student-cover-v1-20261019.png",
+      "github_path": "content/posts/2026/10/5276-google-ai-pro-youtube-student-guide.md",
+      "slug": "google-ai-pro-youtube-student-guide",
+      "source_id": "5276",
+      "source_url": "https://jiami.dog/5276.html",
+      "sync_status": "current",
+      "tags": [
+        "Gemini",
+        "Google AI Pro",
+        "YouTube Premium",
+        "学生优惠"
+      ],
+      "title": "Google AI Pro 学生优惠领取指南：5TB 空间与 YouTube Premium 怎么选"
+    },
     {
       "categories": [
         "资源攻略"
@@ -4312,9 +4336,9 @@
     }
   ],
   "canonical_site": "https://jiami.dog/",
-  "feed_sha256": "facb13e4f1f04d1804cd272352b34a0d274e447b4c37d01df023496c6a05f6d6",
+  "feed_sha256": "c5e52a053086294b71790bfc1c80899dddde7a1de5a8342fc0df2951e20b212a",
   "pending_removal_count": 0,
   "schema_version": "1.0",
-  "source_article_count": 193,
+  "source_article_count": 194,
   "source_endpoint": "https://jiami.dog/wp-json/wp/v2/posts"
 }
